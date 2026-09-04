@@ -1,0 +1,1247 @@
+{
+    "generated_at": "2026-09-04T09:00:09.806847",
+    "source_file": "processed_ads_20260904_085003.json",
+    "total_ads": 20,
+    "results": [
+        {
+            "ad": {
+                "ad_id": "4163928037214488",
+                "page_name": "Born2WinPh Forex Trading Education",
+                "page_profile_url": "https://www.facebook.com/born2winph/",
+                "is_active": true,
+                "caption": "born2win.ph",
+                "body": "Learn a lifetime skill that has already helped thousands of Filipinos improve their financial and time literacy - Forex Trading.\n\nATTEND our exclusive Forex webinar for beginners (ONLINE), hosted by one of Asia’s top trader coaches, Coach Ferdie Pabalan!\n\nClick the “SIGN UP” button below to register for a sponsored FREE online Forex seminar (webinar).\n\nFirst come, first served for up to 250 people so SIGN UP NOW!\n\nLearn more at www.born2win.ph",
+                "title": "Learn Forex Trading [Free Webinar]",
+                "cta_text": "Sign up",
+                "cta_type": "SIGN_UP",
+                "link_url": "https://born2win.ph/free-webinar/",
+                "display_format": "VIDEO",
+                "videos": [
+                    {
+                        "video_hd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNk_PPrlIQZ6bdyRkxiR2pLr_uZ9UBGdp3kXlt8T8Wc1A3T69g0WjH4Ng8WdGfrbmgmhhatiuZhzCTOX4ggZG4.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=dYF7TNkJf-AQ7kNvwGrr251&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNjExMTI1OTE2NTQ2NzYyLCJhc3NldF9hZ2VfZGF5cyI6MjYwLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=sMn2q-vXUv2P3U5hM3QFBA&_nc_ss=7f289&_nc_zt=28&oh=00_AQKx4vFz85BTvSbJ0_PWuY4tSCxxFMt4OXJyXqr08McPxA&oe=6AA00838",
+                        "video_sd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOp1cDmlQsIAslUCaheIOLWbot8Q4mWdbJSevQzsR1_aZ-nJ2qxHSTjwEt35GA8ehGELNoPMCM9wCF-DgOxdM8e.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=I2WJBQnTVHQQ7kNvwG298WI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuMzYwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNjExMTI1OTE2NTQ2NzYyLCJhc3NldF9hZ2VfZGF5cyI6MjYwLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=sMn2q-vXUv2P3U5hM3QFBA&_nc_ss=7f289&_nc_zt=28&oh=00_AQLib-1MrPxEDQFafmPhiqZ1Yb3jL4tznP8Y_56qvbb84w&oe=6AA00B00",
+                        "video_preview_image_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.35426-6/481959164_1337707127372665_2345138141838880241_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KFlJLROl9aMQ7kNvwHdYi87&_nc_oc=AdqySg9d9tRSzFCe4IZ-I0xe7ErEStCcxOAnqh4PqtCNVOlIInde7MIVMOYJZYLPKPg&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=sMn2q-vXUv2P3U5hM3QFBA&_nc_ss=7f289&oh=00_AQKo2734gL6dMIf1qDnw5m88wXAM-0TF8i_5lIsRaRfmTw&oe=6AA018A8"
+                    }
+                ],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2025-10-10T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Filipino beginners interested in forex trading and improving financial literacy",
+                "main_pain_points": [
+                    "Lack of financial knowledge",
+                    "Limited time to learn trading",
+                    "Fear of losing money",
+                    "Desire for passive income",
+                    "Distrust in trading education"
+                ],
+                "main_desires": [
+                    "Financial freedom",
+                    "Time flexibility",
+                    "Skill acquisition",
+                    "Earn extra income",
+                    "Credible guidance"
+                ],
+                "primary_hook": "Free exclusive Forex webinar with Asia’s top trader coach",
+                "hook_type": "Benefit-driven educational hook with scarcity",
+                "marketing_angle": "Offer a free, limited‑seat webinar led by a recognized expert, leveraging social proof and urgency to attract Filipino beginners seeking financial empowerment.",
+                "emotional_triggers": [
+                    "Curiosity (free webinar)",
+                    "FOMO (limited seats)",
+                    "Empowerment",
+                    "Trust (expert coach)",
+                    "Exclusivity"
+                ],
+                "copywriting_patterns": [
+                    "Direct address and benefit statement",
+                    "Use of numbers for scarcity (250 spots)",
+                    "Social proof (thousands helped)",
+                    "Imperative verbs (Learn, Attend, Click)",
+                    "CAPS for emphasis",
+                    "Clear CTA with urgency"
+                ],
+                "cta_strategy": "Urgency‑driven, low‑friction ‘Sign up’ CTA emphasizing limited availability and free access",
+                "why_this_ad_may_work": "The ad combines a compelling free value proposition, authority of a top coach, clear scarcity, and a strong, direct CTA that resonates with Filipino audiences seeking financial improvement.",
+                "video_ad_concept": "Start with a quick montage of busy Filipino professionals looking stressed about money, transition to the coach speaking confidently, show live chart examples, include testimonials from past attendees, overlay a countdown timer for the 250‑person limit, and end with a bold ‘Sign up now’ button and the webinar URL."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "801607226127518",
+                "page_name": "Forexdana-invest online",
+                "page_profile_url": "https://www.facebook.com/100072323395048/",
+                "is_active": true,
+                "caption": "play.google.com",
+                "body": "Stop being a dreamer and be a creator! We know how.",
+                "title": "ForexDana - Pocket Trading",
+                "cta_text": "Install now",
+                "cta_type": "INSTALL_MOBILE_APP",
+                "link_url": "http://play.google.com/store/apps/details?id=com.indone.online",
+                "display_format": "IMAGE",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                ],
+                "start_date": "2025-10-22T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Aspiring retail traders, beginners seeking accessible mobile trading, individuals looking for side income or financial freedom, aged 18-35, mobile-first users in emerging markets",
+                "main_pain_points": [
+                    "Overwhelmed by complex trading platforms",
+                    "Fear of losing money due to lack of knowledge",
+                    "Time constraints preventing active learning",
+                    "Feeling stuck as a 'dreamer' without actionable path",
+                    "High barriers to entry (capital, education, tools)"
+                ],
+                "main_desires": [
+                    "Financial independence through trading",
+                    "Simple, pocket-sized trading experience",
+                    "Guided path from novice to profitable trader",
+                    "Community validation and shared wisdom",
+                    "Quick start with minimal friction"
+                ],
+                "primary_hook": "Stop being a dreamer and be a creator! We know how.",
+                "hook_type": "Identity transformation / Aspirational command",
+                "marketing_angle": "Democratized trading via mobile app – turning passive dreamers into active creators with guided, pocket-sized tools",
+                "emotional_triggers": [
+                    "Aspiration (become a creator)",
+                    "Fear of missing out (stop dreaming, start doing)",
+                    "Empowerment (we know how)",
+                    "Hope (accessible path to trading success)",
+                    "Urgency (install now)"
+                ],
+                "copywriting_patterns": [
+                    "Contrast framing (dreamer vs creator)",
+                    "Direct command language",
+                    "Implied authority ('We know how')",
+                    "Ultra-short body copy for mobile feed",
+                    "Single, clear CTA with immediate action verb"
+                ],
+                "cta_strategy": "Low-friction 'Install now' driving direct app store install, leveraging impulse and immediate gratification",
+                "why_this_ad_may_work": "Combines strong identity shift hook with zero-friction CTA; targets emotional desire to act rather than learn; mobile-native format aligns with app install objective; authority claim reduces perceived risk",
+                "video_ad_concept": "Split-screen: left side shows person scrolling social media dreaming of wealth (dreamer); right side shows same person using CrowdWisdomTrading app, following crowd signals, executing trades, growing portfolio (creator). Overlay text: 'Dreamers watch. Creators trade.' End with app store badges and 'Join 500K+ creators' social proof."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1059704376466187",
+                "page_name": "ForexVPS.net",
+                "page_profile_url": "https://www.facebook.com/ForexVPSnet/",
+                "is_active": true,
+                "caption": "forexvps.net",
+                "body": "Summer sale is live! ☀️ \n\nSave 50% on your first month with the world’s best trading VPS. Use code: 50OFFVPS\n\n✅ Latency as low as 1ms\n✅ 100% Up-time guarantee\n✅ Compatible with all trading platforms\n✅ 24/7 Expert customer support",
+                "title": "Claim 50% Off Now",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://www.forexvps.net/lp/s50-off-forexvps?utm_source=meta&utm_medium=paid&utm_campaign=50off",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-08-20T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Forex and algorithmic traders seeking low‑latency, high‑availability VPS solutions",
+                "main_pain_points": [
+                    "High latency causing slippage and missed opportunities",
+                    "Unreliable servers leading to downtime",
+                    "Compatibility issues with trading platforms",
+                    "Poor or slow customer support"
+                ],
+                "main_desires": [
+                    "Ultra‑low latency for fast order execution",
+                    "100% uptime to avoid trading interruptions",
+                    "Seamless compatibility with all trading platforms",
+                    "Responsive expert support",
+                    "Cost savings on VPS services"
+                ],
+                "primary_hook": "Save 50% on the world’s best trading VPS – latency as low as 1ms, 100% uptime guarantee",
+                "hook_type": "discount + performance benefit",
+                "marketing_angle": "Performance‑focused value proposition with a limited‑time discount to attract cost‑conscious traders",
+                "emotional_triggers": [
+                    "Urgency (summer sale, limited‑time 50% off)",
+                    "Trust (100% uptime guarantee, expert support)",
+                    "Confidence (best VPS, low latency)",
+                    "Savings (significant discount)"
+                ],
+                "copywriting_patterns": [
+                    "Use of emojis to draw visual attention",
+                    "Bullet‑point style benefit statements with checkmarks",
+                    "Imperative language (“Claim”, “Learn more”)",
+                    "Clear call‑to‑action with discount code",
+                    "Concise, benefit‑driven copy"
+                ],
+                "cta_strategy": "Direct, low‑friction ‘Learn more’ CTA that leads to a landing page where the discount code can be applied",
+                "why_this_ad_may_work": "Combines a compelling discount with clear, trader‑centric performance benefits, addresses key pain points, uses urgency and visual cues, and offers a simple next step",
+                "video_ad_concept": "Show a frustrated trader missing trades due to latency spikes, then transition to a sleek VPS interface displaying 1ms latency and 100% uptime graphics, followed by a happy trader executing smooth trades, ending with the 50% off badge and 'Learn more' CTA."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "3916768571952528",
+                "page_name": "Finex",
+                "page_profile_url": "https://www.facebook.com/finexbroker/",
+                "is_active": true,
+                "caption": "finex.co.id",
+                "body": "Mau naik level? Pilih Finex dan nikmati dukungan dari pakar, layanan berkualitas, dan platform lengkap untuk raih kesempatan sukses.",
+                "title": "Trading lebih cerdas di Finex",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://finex.co.id/",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "WHATSAPP",
+                    "THREADS"
+                ],
+                "start_date": "2026-07-22T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indonesian retail traders and aspiring investors aged 25-45 who are dissatisfied with their current trading results and seeking a more intelligent approach to markets. Includes both beginners wanting structured guidance and intermediate traders frustrated with fragmented tools and lack of professional support.",
+                "main_pain_points": [
+                    "Feeling stuck at current trading skill level with no clear path to improvement",
+                    "Lack of access to expert guidance and professional trading support",
+                    "Dealing with incomplete or unreliable trading platforms",
+                    "Experiencing trading losses due to insufficient knowledge and tools",
+                    "Fragmented learning from multiple unverified sources"
+                ],
+                "main_desires": [
+                    "Level up trading skills and achieve consistent profitability",
+                    "Access to expert-led guidance and mentorship",
+                    "A complete, all-in-one trading platform with quality service",
+                    "Clear opportunities for financial success",
+                    "Confidence in making trading decisions"
+                ],
+                "primary_hook": "The promise of trading smarter—implying that current methods are inefficient and Finex offers a superior, more intelligent approach to achieving trading success",
+                "hook_type": "Value proposition hook combined with outcome aspiration—the ad promises a better version of trading through expert support, quality service, and comprehensive tools",
+                "marketing_angle": "Comprehensive solution positioning—Finex positions itself as the complete answer to trading success by bundling expert support, quality service, and a full platform into one offering, removing the need for traders to piecemeal their trading setup",
+                "emotional_triggers": [
+                    "Aspiration to 'level up' and improve current status",
+                    "Desire for expert validation and professional backing",
+                    "Fear of missing out on the 'right' platform for success",
+                    "Hope that success is achievable with proper support",
+                    "Trust signals through 'quality service' and 'expert' language"
+                ],
+                "copywriting_patterns": [
+                    "Direct question engagement: 'Mau naik level?' creates personal relevance and prompts self-reflection",
+                    "Benefits-first structure listing what the user gains (expert support, quality service, complete platform)",
+                    "Aspirational framing using 'kesempatan sukses' (opportunity for success) rather than guaranteed profits",
+                    "Concise, scannable copy ideal for mobile ad units",
+                    "No aggressive financial claims—compliance-conscious positioning",
+                    "Indonesian language copy suggests localized market focus and cultural relevance"
+                ],
+                "cta_strategy": "'Learn more' represents a low-friction, awareness-stage CTA appropriate for cold audiences. It allows prospects to self-select into the funnel without commitment pressure. For warmer audiences, stronger CTAs like 'Start Trading Smarter' or 'Get Expert Support' would likely improve conversion rates.",
+                "why_this_ad_may_work": "This ad works because it addresses multiple decision-making factors simultaneously: it identifies the audience's desire to improve (level up), removes barriers by offering expert support, establishes trust through 'quality service' language, and simplifies the decision by positioning Finex as a complete solution. The 'trade smarter' framing also implies current methods are suboptimal, creating mild dissatisfaction with the status quo that Finex can resolve. The Indonesian language and localized URL suggest deep market understanding for the Indonesian trading audience.",
+                "video_ad_concept": "For CrowdWisdomTrading, adapt this into a 15-30 second video: Open with a relatable pain moment—trader staring at multiple screens, confused, or showing a trading account in red. Transition: 'Trading alone is hard. That's why CrowdWisdomTrading exists.' Middle section: Quick visual montage showing the platform, community support, expert insights, and real trade examples. Hook: 'Trade smarter with CrowdWisdomTrading—join traders who chose the smarter path.' End with strong CTA card: 'Start Your Smarter Trading Journey' with a direct link. Include social proof element (trader count or success stories) in the final 5 seconds. Use upbeat but trustworthy music. Test both testimonial-style and animation approaches."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "2187388798660981",
+                "page_name": "Finex",
+                "page_profile_url": "https://www.facebook.com/finexbroker/",
+                "is_active": true,
+                "caption": "finex.co.id",
+                "body": "Mau naik level? Pilih Finex dan nikmati dukungan dari pakar, layanan berkualitas, dan platform lengkap untuk raih kesempatan sukses.",
+                "title": "Trading lebih cerdas di Finex",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://finex.co.id/",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "WHATSAPP",
+                    "THREADS"
+                ],
+                "start_date": "2026-07-22T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indonesian retail traders and investors (millennials/Gen Z) who are digitally savvy, seeking financial growth, and looking to elevate their trading performance from a basic to an advanced level. They are likely beginners to intermediate traders who feel stuck and crave expert guidance.",
+                "main_pain_points": [
+                    "Trading without proper guidance or support, leading to inconsistent results",
+                    "Lack of access to expert-level analysis and mentorship",
+                    "Using incomplete or inadequate trading platforms",
+                    "Feeling stuck at a lower trading level and unable to progress",
+                    "Missing out on quality tools and services that could improve outcomes"
+                ],
+                "main_desires": [
+                    "To level up and become a more skilled, smarter trader",
+                    "Access to expert support and professional guidance",
+                    "A complete, all-in-one trading platform with quality service",
+                    "Financial success and opportunities through trading",
+                    "Confidence and clarity in their trading decisions"
+                ],
+                "primary_hook": "Trading lebih cerdas — the promise of transforming from an ordinary trader into a smarter, more informed one through expert-backed support and a complete platform.",
+                "hook_type": "Benefit-driven aspiration hook (positioning the brand as the bridge between current state and desired state)",
+                "marketing_angle": "Positioning the platform as an all-in-one ecosystem that combines expert mentorship, quality service, and comprehensive tools — making advanced trading accessible to everyday users who want to 'level up.' The angle is aspirational and supportive rather than aggressive or get-rich-quick.",
+                "emotional_triggers": [
+                    "Fear of stagnation — the anxiety of not growing or improving",
+                    "Desire for success and financial independence",
+                    "Trust and safety — reassurance through 'dukungan dari pakar' (expert support)",
+                    "FOMO — the fear of missing out on better opportunities and tools",
+                    "Self-improvement motivation — the drive to be 'lebih cerdas' (smarter)"
+                ],
+                "copywriting_patterns": [
+                    "Question-based engagement ('Mau naik level?') to prompt self-reflection",
+                    "Benefit stacking — layering multiple value propositions (expert support + quality service + complete platform)",
+                    "Aspirational language ('raih kesempatan sukses') to paint a desirable future state",
+                    "Direct address and personalization to create a sense of individual relevance",
+                    "Short, punchy headline that encapsulates the core promise",
+                    "Soft sell approach — 'Choose Finex and enjoy' rather than hard selling"
+                ],
+                "cta_strategy": "Soft, low-friction CTA ('Learn more') that reduces pressure and encourages exploration. This works well for awareness-stage audiences who need to build trust before committing. The CTA invites curiosity rather than demanding immediate action.",
+                "why_this_ad_may_work": "The ad effectively speaks to a universal aspiration in the trading niche — self-improvement and success. By combining a relatable question hook with stacked benefits and aspirational language, it creates a compelling narrative that positions the brand as a supportive partner rather than just a tool. The question format drives engagement, while the benefit stack gives the audience multiple reasons to care. However, it could be strengthened with social proof (testimonials, numbers), specificity (what makes it 'complete'?), and a stronger sense of urgency.",
+                "video_ad_concept": "For CrowdWisdomTrading, a high-performing video concept would be a 15-30 second narrative arc: OPEN with a relatable hook — a trader looking frustrated at their screen or stuck in a trading rut (0-3 sec). MIDDLE — a transformation moment where the trader gains access to CrowdWisdomTrading's community insights, expert signals, or crowd wisdom feature, showing their confidence shift (3-18 sec). CLOSE — a bold statement overlay like 'Trading Lebih Cerdas Dimulai dari Di Sini' with the CrowdWisdomTrading logo and a CTA button 'Join Now' or 'Start Trading Smarter' (18-30 sec). Visual style: Bold, energetic colors (green/gold for prosperity), fast-paced cuts showing charts lighting up, and a community element (multiple avatars/people celebrating) to emphasize the 'wisdom of the crowd.' Audio: Upbeat, confident background music with a voiceover delivering the core value proposition. Add a text overlay loop of 'Join 100K+ Traders' or similar social proof stat throughout."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "923036933701374",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Groww, India's No.1 Stock Broker | Zero AMC |  Investing made easy",
+                "title": "Free Demat, 100% Online, 0 AMC",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "IMAGE",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                ],
+                "start_date": "2026-04-09T07:00:00.000Z",
+                "end_date": "2026-09-02T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indian retail investors, particularly beginners or cost-conscious traders seeking simplified and affordable stock trading solutions.",
+                "main_pain_points": [
+                    "High account maintenance charges (AMC) that deter small investors",
+                    "Complex and time-consuming account opening processes",
+                    "Lack of fully online, accessible trading platforms",
+                    "Perceived difficulty in investing, leading to hesitation"
+                ],
+                "main_desires": [
+                    "Affordable investing with minimal fees",
+                    "Easy-to-use platforms that simplify the trading process",
+                    "Trusted and reliable brokers with strong credibility",
+                    "Quick and hassle-free account setup"
+                ],
+                "primary_hook": "Free Demat, 100% Online, 0 AMC",
+                "hook_type": "Benefit-oriented value proposition",
+                "marketing_angle": "Leadership and simplicity: positioning as India's No.1 broker that makes investing effortless and cost-free",
+                "emotional_triggers": [
+                    "Trust through authority (using 'No.1' claim)",
+                    "Relief from financial burdens (zero AMC)",
+                    "Excitement and empowerment from easy investing"
+                ],
+                "copywriting_patterns": [
+                    "Use of superlatives ('No.1')",
+                    "Direct benefit statements ('Zero AMC', 'Investing made easy')",
+                    "Feature highlighting with numbers ('100% Online')",
+                    "Concise, punchy phrasing for quick comprehension"
+                ],
+                "cta_strategy": "Low-pressure, informative call-to-action ('Learn more') that encourages exploration without urgency, suitable for awareness-stage audiences",
+                "why_this_ad_may_work": "It directly addresses key pain points with clear benefits, builds instant credibility through leadership claims, and uses simple language to appeal to a broad audience. The focus on cost-saving and ease reduces barriers to entry, making it highly persuasive for potential users.",
+                "video_ad_concept": "For CrowdWisdomTrading, create a short, energetic video ad featuring relatable scenarios of beginners overcoming investing fears. Start with a hook like 'Free Demat & Zero AMC' overlaid on screen, then show quick cuts of users easily opening accounts online, with testimonials highlighting ease and savings. Use upbeat music and text animations to emphasize key benefits, ending with a clear CTA to visit the website. Target emotions of relief and excitement to drive engagement."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1609962080283747",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Groww, India's No.1 Stock Broker | Zero AMC |  Investing made easy",
+                "title": "Free Demat, 100% Online, 0 AMC",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "IMAGE",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "THREADS"
+                ],
+                "start_date": "2026-04-10T07:00:00.000Z",
+                "end_date": "2026-09-02T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indian retail investors and aspiring traders, especially millennials and young professionals who prioritize low‑cost, digital‑first investing solutions and are wary of hidden fees or complex brokerage processes.",
+                "main_pain_points": [
+                    "High brokerage and hidden AMC fees eroding returns",
+                    " cumbersome, paper‑based onboarding and account maintenance",
+                    "Lack of transparency about charges and commissions",
+                    "Perceived complexity of trading platforms requiring extensive knowledge",
+                    "Fear of losing money due to opaque pricing"
+                ],
+                "main_desires": [
+                    "A completely free or low‑cost demat account with zero ongoing fees",
+                    "Fully online, mobile‑first experience that requires minimal paperwork",
+                    "Transparent pricing and clear, simple fee structures",
+                    "User‑friendly tools that make investing accessible without extensive expertise",
+                    "Confidence that the platform is trusted, secure, and ranked among leaders"
+                ],
+                "primary_hook": "Zero‑cost, 100 % online investing – free demat, no AMC, and a simple path to start trading today.",
+                "hook_type": "Benefit‑driven pain‑relief hook (addresses fee‑related pain with a clear solution).",
+                "marketing_angle": "Present CrowdWisdomTrading as the ultra‑lean, Indian‑focused broker that eliminates hidden costs and paperwork, letting everyday investors focus on growth rather than fees.",
+                "emotional_triggers": [
+                    "Desire for financial freedom and control",
+                    "Fear of losing money to hidden charges",
+                    "Trust in a proven, #1 ranked platform",
+                    "Optimism about easy, effortless investing"
+                ],
+                "copywriting_patterns": [
+                    "Numbered USP statements (Zero AMC, 100 % Online)",
+                    "Social proof anchor (“India’s No.1 Stock Broker”)",
+                    "Concise benefit‑first sentences",
+                    "Strong, action‑oriented verbs (“Invest made easy”)",
+                    "Scannable bullet‑point style in video overlays"
+                ],
+                "cta_strategy": "Use a low‑friction, informational CTA (“Learn more”) that leads to a quick sign‑up or demo, reinforcing the “free‑to‑start” message.",
+                "why_this_ad_may_work": "It isolates the most compelling, quantifiable benefit (zero fees) and pairs it with a credible claim of market leadership, instantly resonating with cost‑conscious investors while reducing perceived risk through clarity and simplicity.",
+                "video_ad_concept": "Open with a split‑screen contrast: left side shows a traditional broker’s paperwork and fee‑heavy UI; right side quickly morphs into CrowdWisdomTrading’s sleek, mobile‑first dashboard. Voice‑over highlights “Free Demat, 0 % AMC, 100 % online.” Intercut quick user clips (young professional, housewife) explaining how they saved money and time. End with a clear overlay: “Start investing in 2 minutes – no hidden fees.” CTA button: “Learn more.”"
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "965679922980288",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Start Trading on Groww",
+                "title": "Get a free trading account on Groww",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "IMAGE",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                ],
+                "start_date": "2026-04-12T07:00:00.000Z",
+                "end_date": "2026-08-22T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Young investors and novice traders seeking accessible, low-barrier entry into stock market investing",
+                "main_pain_points": [
+                    "High barriers to entry for new traders",
+                    "Complexity of traditional brokerage platforms",
+                    "Lack of affordable entry options for casual investors"
+                ],
+                "main_desires": [
+                    "Easy access to trading platforms",
+                    "Freedom to invest without upfront costs",
+                    "Professional-grade trading experience as a novice"
+                ],
+                "primary_hook": "Get a free trading account on Groww",
+                "hook_type": "Benefit-driven value proposition",
+                "marketing_angle": "Democratizing trading access through zero-cost entry",
+                "emotional_triggers": [
+                    "Fear of missing out (on starting early)",
+                    "Hope and freedom through financial independence",
+                    "Simplicity and ease of use"
+                ],
+                "copywriting_patterns": [
+                    "Direct benefit emphasis",
+                    "Clear call-to-action",
+                    "Branded URL inclusion",
+                    "Risk-free offer framework"
+                ],
+                "cta_strategy": "Clean, low-friction 'Learn more' CTA that overcomes hesitation by promising instant access without financial commitment",
+                "why_this_ad_may_work": "Offers immediate low-effort value (free account) which reduces decision fatigue and removes financial risk for beginners; clear CTA and trusted domain name drive conversion",
+                "video_ad_concept": "15-second vertical video showing a user excitedly signing up for Groww's free trade account, visualizing their portfolio growing rapidly, with bold text overlay 'Free Trading Start - No Fees Now', followed by the official Groww logo and animated 'Learn More' button to guide viewers further down the funnel"
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1487196446094844",
+                "page_name": "Shopee",
+                "page_profile_url": "https://www.facebook.com/ShopeeMY/",
+                "is_active": true,
+                "caption": "play.google.com",
+                "body": "Baru di Shopee? Gabungkan Baucar Diskaun RM18 & Baucar Penghantaran Percuma untuk order pertama anda. Beli di Shopee sekarang.",
+                "title": "(ORIGINAL MMC) Proton Exora 1.6 CPS Auto / Manual  - MMC Original Engine Mount Mounting Full Set (4pcs)",
+                "cta_text": "Install now",
+                "cta_type": "INSTALL_MOBILE_APP",
+                "link_url": "http://play.google.com/store/apps/details?id=com.shopee.my",
+                "display_format": "DPA",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-04-01T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Retail cryptocurrency investors and traders seeking accessible entry points to the market, particularly in Southeast Asia; individuals with limited financial literacy but strong desire for financial growth; young professionals and students looking for low-barrier investment options.",
+                "main_pain_points": [
+                    "Lack of knowledge about profitable cryptocurrency strategies and risk management",
+                    "Complexity of navigating decentralized finance (DeFi) and traditional brokerage interfaces",
+                    "Fear of losing invested capital due to scams, volatility, or poor platform choices",
+                    "Limited access to educational resources or trusted recommendation systems",
+                    "Difficulty starting small without significant upfront capital"
+                ],
+                "main_desires": [
+                    "Secure and sustainable wealth accumulation",
+                    "Ease of use and simplified investment processes",
+                    "Community validation and peer success stories",
+                    "Transparency and security assurance",
+                    "Potential for quick and substantial returns"
+                ],
+                "primary_hook": "Unlock your financial potential with CrowdWisdomTrading—where expert guidance meets effortless execution",
+                "hook_type": "Authority + Simplicity (promising expert-level results through straightforward platform)",
+                "marketing_angle": "Position CrowdWisdomTrading as the democratized gateway to professional-grade investing, removing complexity barriers while guaranteeing transparent, secure outcomes.",
+                "emotional_triggers": [
+                    "Fear of missing out (FOMO) on profitable opportunities",
+                    "Greed/ambition for financial independence and rapid wealth building",
+                    "Anxiety around fraud and inexperienced markets (mitigated by trust signals)",
+                    "Belongingness to a community of successful investors",
+                    "Relief from being overwhelmed by complex jargon"
+                ],
+                "copywriting_patterns": [
+                    "Benefit-first framing over feature lists",
+                    "Social proof references ('join 50,000+ successful investors')",
+                    "Urgency cues ('limited-time access', 'early-bird pricing')",
+                    "Clear value propositions with quantified outcomes",
+                    "Direct, action-oriented CTAs tied to immediate benefit"
+                ],
+                "cta_strategy": "Use a bold, specific action phrase like \"Start Your Free Account\" or \"Begin Trading Now\" paired with a micro-offer or incentive to reduce friction and increase conversion.",
+                "why_this_ad_may_work": "The original ad successfully uses localized urgency ('RM18 discount', 'free delivery') and clear value exchange to drive clicks on a competitive marketplace. For CrowdWisdomTrading, replicating this approach with hyper-localized offers and emphasis on security/trust will resonate in the crowded crypto space by addressing both rational (cost-saving) and emotional (fear of loss) drivers simultaneously.",
+                "video_ad_concept": "Create a 15-30 second vertical video featuring dynamic visuals of diverse users succeeding with their investments, seamlessly transitioning from complex chart confusion to the CrowdWisdomTrading interface demonstrating one-click trade setup. Include quick testimonials highlighting ease-of-use, community support, and tangible profits. End with a bold on-screen CTA showing a limited-time bonus (e.g., 'First 100 Signups Get 20% Bonus') to create FOMO and drive immediate sign-ups."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "2360566074385665",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Trade in Futures and Options on Groww",
+                "title": "Trade in Equity and Commodities Market on Groww",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "THREADS"
+                ],
+                "start_date": "2025-11-27T08:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Retail investors and traders aged 20-45 in India, interested in equities, commodities, futures & options, seeking a user-friendly, low‑cost platform with educational resources.",
+                "main_pain_points": [
+                    "Perceived complexity of trading multiple asset classes",
+                    "High brokerage fees and hidden charges",
+                    "Lack of trustworthy, all‑in‑one trading app",
+                    "Insufficient guidance for beginners in F&O and commodities",
+                    "Fear of losing money due to insufficient knowledge"
+                ],
+                "main_desires": [
+                    "Simple, one‑tap access to equity, commodity and derivatives markets",
+                    "Low or zero commission trading",
+                    "Built‑in learning modules and market insights",
+                    "Confidence to execute trades quickly",
+                    "Ability to diversify portfolio and grow wealth"
+                ],
+                "primary_hook": "Trade in Equity, Commodities, Futures & Options – all on one trusted app",
+                "hook_type": "Benefit‑driven solution",
+                "marketing_angle": "Position Groww as the easiest, most affordable gateway to diversified trading, emphasizing simplicity, education and low cost.",
+                "emotional_triggers": [
+                    "Aspiration for financial independence",
+                    "Trust and security",
+                    "Fear of missing out (FOMO) on market moves",
+                    "Empowerment through knowledge"
+                ],
+                "copywriting_patterns": [
+                    "Short, benefit‑focused headline",
+                    "Repetition of brand name for recall",
+                    "Action‑oriented verb ('Trade')",
+                    "Clear, low‑friction CTA ('Learn more')",
+                    "Use of domain URL as social proof"
+                ],
+                "cta_strategy": "Soft educational CTA that leads to a landing page explaining features, fees and signup flow, nurturing interest before a hard sell.",
+                "why_this_ad_may_work": "The ad directly addresses the desire for a single‑platform solution, uses clear benefit language, leverages the trusted Groww brand, and pairs a low‑commitment CTA with an informative landing page, capturing high‑intent users.",
+                "video_ad_concept": "A fast‑paced 15‑second vertical video showing a young trader navigating the Groww app: tapping to switch between equity charts, commodity prices, and F&O order tickets; overlay text highlights ‘Zero‑Commission’, ‘Instant Learning’, ‘One‑Tap Overlay’. Ends with the brand logo, CTA ‘Start Trading Now – Learn More’ and the groww.in URL."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1544061667434733",
+                "page_name": "StoryTv - Hindi",
+                "page_profile_url": "https://www.facebook.com/61582578860770/",
+                "is_active": true,
+                "caption": "storytv.co.in",
+                "body": "\"🔥 Watch The Most Addictive Dramas Online!\n❤️ Love | 😈 Revenge | 😱 Suspense | 🔪 Crime Thriller\n📺 1000+ Blockbuster Shows\n🎬 Daily New Episodes Waiting For You\n👑 India’s Top Micro Drama App\n💸 Start Your ₹1 Trial Now\"",
+                "title": "🔥 Unlimited Drama Starts @ ₹1",
+                "cta_text": "Watch more",
+                "cta_type": "WATCH_MORE",
+                "link_url": "https://storytv.co.in/trial/?lang=2",
+                "display_format": "VIDEO",
+                "videos": [
+                    {
+                        "video_hd_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMx_nlgI0_qvWtS0tDOQ5_fQLxCoVLODQc9zUdA3C51m_Bzb0dBvmFK08JcAgQHYFnMsPnqPvnPjOH5Ru0yTWpR96dl9DgVm4GE4wrk3hp0Gg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=UYa-aBYRlBIQ7kNvwE1fhMp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3Njc3MzY4OTQ4NTE2NDI0LCJhc3NldF9hZ2VfZGF5cyI6MTE2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTY5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f8d339ea7cd0a0d5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MzQ1RDRCNzZDMDNEQTRENjM3M0VCMTM0RjM0QjI5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNEE2RDBGNjU4NzJBMTRGMDQzQjc4QUI2MzUyRjk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQmfOH9JqqYhUCKAJDMywXQIHK41P3ztkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=4h_mREj5xr55LJZvQOZOTw&_nc_ss=7f289&_nc_zt=28&oh=00_AQLRZRmd2LJOqIuLubm5XnY55xKfK1biqRdHwoj0_5tNMA&oe=6AA00667",
+                        "video_sd_url": "https://video-lga3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPENHagqoJISUdK_JwIM9knJPLYzFhfqrA0QHdvTrFxSUGYjQHx5mWC6smlYKGDKdetmfkd-ktYbtFcsXAUCZt7h3zN9OIQI3lRxChsEg.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-lga3-2.xx.fbcdn.net&_nc_ohc=JabZeSpYoI8Q7kNvwFRTF27&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2NzczNjg5NDg1MTY0MjQsImFzc2V0X2FnZV9kYXlzIjoxMTYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4h_mREj5xr55LJZvQOZOTw&_nc_ss=7f289&_nc_zt=28&oh=00_AQKqSmmwvbtayE5ptPekGciwo92-9Ajt_mQQ_Uysp_bc8Q&oe=6A9FF767",
+                        "video_preview_image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.35426-6/696954784_1526452345490094_2589772803433808690_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=umC31c7iWz8Q7kNvwHgogDy&_nc_oc=Ado-YORAUsFshMaJvJ5HNKGYuroA2jZku6qt8dw6C3xNsXyryBD0dnuCnCNi3wvfA8E&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=4h_mREj5xr55LJZvQOZOTw&_nc_ss=7f289&oh=00_AQIIXtg5F76Xip-BuuEG8R_U4o317-Q4H5PMuBE-aX56Gg&oe=6AA01433"
+                    }
+                ],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-05-11T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Hindi-speaking, mobile-first, price-sensitive audience seeking entertainment; translatable to: Hindi-speaking, mobile-first, aspiring traders/investors seeking financial growth with low-barrier entry",
+                "main_pain_points": [
+                    "High cost of premium content/subscriptions",
+                    "Lack of engaging, easily accessible options",
+                    "Feeling left out while others enjoy exclusive content",
+                    "No clear starting point for beginners"
+                ],
+                "main_desires": [
+                    "Unlimited access to premium content at minimal cost",
+                    "Daily fresh, exciting content",
+                    "Being part of a top-ranked, trending platform",
+                    "Quick, effortless entry into something valuable"
+                ],
+                "primary_hook": "🔥 Unlimited Drama Starts @ ₹1",
+                "hook_type": "Ultra-low price anchor + exclusivity promise",
+                "marketing_angle": "Freemium trial model — use an almost-free entry point (₹1) to eliminate financial risk, then leverage volume (1000+ shows), daily novelty, and social proof ('India's Top') to drive conversion. Apply this to trading: 'Start Your Trading Journey @ ₹1' or 'Learn to Trade — First ₹1 On Us'",
+                "emotional_triggers": [
+                    "Curiosity (🔥 emoji + 'Addictive')",
+                    "FOMO (India's Top App, Daily New Episodes)",
+                    "Excitement (fire emoji, crime thriller genre tags)",
+                    "Desire for variety and constant novelty",
+                    "Price-anchored thrill (₹1 trial feels like a no-brainer)"
+                ],
+                "copywriting_patterns": [
+                    "Emoji-led visual hierarchy for scroll-stopping impact",
+                    "Genre/niche tags to instantly communicate content type (Love | Revenge | Crime Thriller)",
+                    "Large number anchoring (1000+ Blockbuster Shows)",
+                    "Ultra-low price as the lead value proposition",
+                    "Social proof badge ('India's Top Micro Drama App')",
+                    "Daily freshness trigger to drive habitual engagement",
+                    "Benefit-led bullet points rather than feature lists",
+                    "Minimal, curiosity-driven CTA ('Watch more')"
+                ],
+                "cta_strategy": "Low-commitment, curiosity-driven CTA ('Watch more') instead of a hard sell — reduces friction and encourages click-through. For trading: use CTAs like 'Start Watching Charts', 'See Live Signals', or 'Unlock Your ₹1 Trial' to mirror the same low-friction philosophy",
+                "why_this_ad_may_work": "The ₹1 price point eliminates financial risk and creates an impulse-click trigger; the combination of emoji visuals, genre-specific emotional tags, and social proof builds instant credibility and desire in a crowded feed; the mobile-first, Hindi-language targeting taps into an underserved demographic with high engagement potential; daily content updates create a habit-loop that drives retention",
+                "video_ad_concept": "For CrowdWisdomTrading: Open with a bold text overlay — '🔥 Unlimited Earning Potential Starts @ ₹1'. Use rapid-fire clips of live trading charts with green candles, countdown timers, and profit notifications to mirror the drama/adrenaline pacing of the original. Include genre-style tags like '📈 Scalping | 💰 Swing Trading | 🔥 Momentum Plays'. Show a '1000+ Traders Joined' counter ticking upward for social proof. End with a daily insight teaser ('Tomorrow's Setup is Already Live') and a low-friction CTA: 'Start Watching'. Use Hindi text overlays and a relatable Hindi-speaking narrator to mirror the original's audience targeting."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1558991888465276",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Invest smart with India's Largest Stock Broker",
+                "title": "India's Largest Stock Broker",
+                "cta_text": "Sign up",
+                "cta_type": "SIGN_UP",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "THREADS"
+                ],
+                "start_date": "2025-12-03T08:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indian retail investors, especially millennials and Gen Z, seeking an easy, low‑cost way to start stock trading",
+                "main_pain_points": [
+                    "Complexity of stock trading",
+                    "High brokerage fees",
+                    "Lack of trust in brokers",
+                    "Time constraints",
+                    "Limited financial literacy"
+                ],
+                "main_desires": [
+                    "Wealth creation",
+                    "Financial independence",
+                    "Ease of investing",
+                    "Trustworthy platform",
+                    "Low costs",
+                    "Educational support"
+                ],
+                "primary_hook": "India’s Largest Stock Broker – Invest Smart",
+                "hook_type": "Authority/Social Proof + Benefit‑Driven",
+                "marketing_angle": "Position Groww as the most trusted, largest, and easiest platform for Indian investors, emphasizing scale, simplicity, and low fees to attract first‑time and busy traders.",
+                "emotional_triggers": [
+                    "Trust",
+                    "Aspiration",
+                    "Security",
+                    "Empowerment"
+                ],
+                "copywriting_patterns": [
+                    "Use of superlatives (largest)",
+                    "Imperative verbs (Invest, Sign up)",
+                    "Concise benefit statement",
+                    "Clear CTA",
+                    "Direct address to audience"
+                ],
+                "cta_strategy": "Direct, low‑friction ‘Sign up’ CTA placed prominently to convert interest into action immediately.",
+                "why_this_ad_may_work": "The ad leverages powerful social proof of being the largest broker, combines a clear benefit (“Invest smart”), and uses a simple, urgent CTA, appealing to both aspirational and practical motivations of Indian retail investors.",
+                "video_ad_concept": "A fast‑paced 15‑30 second video showing diverse Indian users (young professionals, retirees) effortlessly opening the Groww app, watching real‑time market charts rise, and achieving milestones (e.g., buying a home, paying tuition). Use bold on‑screen text ‘India’s Largest Stock Broker’, quick cuts of low‑fee messaging, and finish with a confident voice‑over saying ‘Start investing smart today – Sign up’ with the Groww logo and URL."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1184303123834670",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Invest smart with India's Largest Stock Broker",
+                "title": "India's Largest Stock Broker",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "THREADS"
+                ],
+                "start_date": "2025-12-23T08:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indian retail investors and traders aged 25-45, primarily urban professionals seeking accessible, trusted digital brokerage solutions",
+                "main_pain_points": [
+                    "Lack of trust in traditional brokerage platforms",
+                    "Complex onboarding and interface navigation",
+                    "Fear of making costly investment mistakes",
+                    "Limited access to advanced trading features",
+                    "Unclear understanding of market opportunities",
+                    "Difficulty comparing multiple brokerage options"
+                ],
+                "main_desires": [
+                    "Financial freedom and wealth creation",
+                    "Confidence in platform security and reliability",
+                    "Easy-to-use digital investment experience",
+                    "Competitive edge through superior tools",
+                    "Access to growing market with reliable support"
+                ],
+                "primary_hook": "India's Largest Stock Broker",
+                "hook_type": "Authority/Status-Based Hook",
+                "marketing_angle": "Market Leadership & Trust Building – Positioning the brand as the definitive, most-widely-trusted option in India's trading ecosystem",
+                "emotional_triggers": [
+                    "Security/Fear of Loss (fear of poor choices)",
+                    "Aspiration (wealth growth and financial independence)",
+                    "Confidence (trust in proven platform)",
+                    "Exclusivity (being part of the country's largest broker network)"
+                ],
+                "copywriting_patterns": [
+                    "Strong, attention-grabbing headline that establishes dominance",
+                    "Benefit-driven body copy focusing on outcomes not features",
+                    "Direct, actionable CTA ('Learn more') with clear destination link",
+                    "Brand-name reinforcement throughout to build familiarity"
+                ],
+                "cta_strategy": "Placed immediately after value proposition with 'Learn more' driving traffic to groww.in for instant onboarding opportunity – creates urgency and lowers barrier to entry by promising quick access to the solution",
+                "why_this_ad_may_work": "The hook leverages immediate social proof (largest broker) which reduces perceived risk for new investors; the benefit-focused copy speaks directly to pain points while the clear CTA removes friction, making it highly convertible for a massive, underserved market segment.",
+                "video_ad_concept": "Create a 15-30 second video showing real-time Indian traders successfully executing trades on CrowdWisdomTrading, contrasting with outdated/bureaucratic traditional broker images; feature rapid-cut visuals of order execution, mobile app interfaces, and success metrics (e.g., portfolio growth animations); open with on-screen text 'India's Leading Trading Platform' mirroring the original hook's authority playbook but tailored to CrowdWisdomTrading"
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1370101921187958",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Invest smart with India's Largest Stock Broker",
+                "title": "India's Largest Stock Broker",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "THREADS"
+                ],
+                "start_date": "2025-12-03T08:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indian retail investors and traders seeking accessible stock brokerage services",
+                "main_pain_points": [
+                    "Difficulty identifying trusted and reliable stockbrokers in a crowded market",
+                    "Financial anxiety about making profitable investment decisions",
+                    "Confusion over complex trading platforms and feature sets",
+                    "Fear of missing out on growth opportunities while competing with established players"
+                ],
+                "main_desires": [
+                    "Wealth accumulation and portfolio growth",
+                    "Ease of use and intuitive trading experience",
+                    "Trust and security in their investment choices",
+                    "Competitive edge over rival platforms",
+                    "Smart, informed investment decisions without excessive complexity"
+                ],
+                "primary_hook": "India's Largest Stock Broker",
+                "hook_type": "Status/Authority Claim",
+                "marketing_angle": "Market Leadership Positioned as Smart Investment Solution",
+                "emotional_triggers": [
+                    "Security and reliability",
+                    "Ambition and financial empowerment",
+                    "Confidence in decision-making",
+                    "Exclusivity and being ahead of the curve",
+                    "Relief from financial uncertainty"
+                ],
+                "copywriting_patterns": [
+                    "Value proposition-led headline",
+                    "Brand recall through domain mention (groww.in)",
+                    "Action-oriented call-to-action ('Learn more')",
+                    "Social proof implication through 'largest' claim",
+                    "Concise benefit-driven messaging"
+                ],
+                "cta_strategy": "Direct 'Learn more' prompt that drives immediate traffic to the landing page, leveraging curiosity around the platform's scale and encouraging exploration of the full service offering.",
+                "why_this_ad_may_work": "The 'India's Largest Stock Broker' headline establishes instant authority and differentiates the brand against competitors by emphasizing market dominance, while the concise body text delivers a clear value proposition—promoting smart investing—making the offer compelling for cost-conscious Indian investors who want trustworthy, accessible options without sifting through multiple choices.",
+                "video_ad_concept": "Create a short-form vertical video (15-30 seconds) featuring rapid cuts of a young professional opening the groww app, selecting stocks using simple drag-and-drop tools, receiving real-time market updates, and achieving visible portfolio growth on screen. Include dynamic text overlays highlighting 'India's Largest', 'Smart Investing Made Easy', and 'Start Your Journey Today'. End with a strong CTA overlay pointing to 'groww.in' and the same 'Learn more' action pattern, reinforcing the brand promise through visual demonstration."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "2854370464773263",
+                "page_name": "Groww",
+                "page_profile_url": "https://www.facebook.com/growwapp/",
+                "is_active": true,
+                "caption": "groww.in",
+                "body": "Trade in Futures and Options on Groww",
+                "title": "Trade in Equity and Commodities Market on Groww",
+                "cta_text": "Learn more",
+                "cta_type": "LEARN_MORE",
+                "link_url": "https://app.groww.in/v3cO/1xb39eqc",
+                "display_format": "DCO",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "THREADS"
+                ],
+                "start_date": "2025-11-27T08:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "analysis_error": true,
+                "raw_response": "User Safety: safe"
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1067875839006071",
+                "page_name": "BiDana-Become a Master",
+                "page_profile_url": "https://www.facebook.com/61586635082133/",
+                "is_active": true,
+                "caption": "play.google.com",
+                "body": null,
+                "title": null,
+                "cta_text": "Install now",
+                "cta_type": "INSTALL_MOBILE_APP",
+                "link_url": "http://play.google.com/store/apps/details?id=com.indone.trade",
+                "display_format": "VIDEO",
+                "videos": [
+                    {
+                        "video_hd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPLjdJZ7NDl2ltJmVJe4P5-7YNOXY2ppNjBPg-w3aZX6IZfHOKI4Kj9fNYsBiFiv2IoVewlbxn-HwBe4zbJ-M8MrT6Bl4QDtBI6CqQsYCMF6A.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=46pJDmIIqCUQ7kNvwHYqT51&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3ODg5MDg4MDU0NDE1NDYsImFzc2V0X2FnZV9kYXlzIjo0OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwMjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=90441b3117f619de&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDQ4MEMwQkI1OEQyMEVEQjMzQ0I4Nzk3NkVFNUQ5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzNENCRTk1MkQ2NkVCQjJEMzAyRTUyMTA3MTg0OEIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUoJKemcCtBhUCKAJDMywXQI_rMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&_nc_zt=28&oh=00_AQLtMlLqxRFCIn06OQIsPkgb-M6-1fOocFg51XWTBLk4qw&oe=6AA00326",
+                        "video_sd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPAtIAsSmZBPLQL7dz_c06OVktgfk856XJuQT5JIhj3Hh8MET_wa6LNSh2h3HHl6ocel2JGl3Wra5Bi_cD_aQg7STPjEJUnLf7GhttvNw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=15StzLSqwNEQ7kNvwE6dBly&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMjg4LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc4ODkwODgwNTQ0MTU0NiwiYXNzZXRfYWdlX2RheXMiOjQ4LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTAyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&_nc_zt=28&oh=00_AQLYMGW4hqX9Y53exR2QAVQyLC-uP7xyvgNFROT4aSkkMg&oe=6A9FFB2F",
+                        "video_preview_image_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.35426-6/767783807_1396325859265798_5696895492692875634_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SON4FyTxidgQ7kNvwGqweky&_nc_oc=Adph0-pgfJs9hJQOVtpkchVdzjx-gpfP9GB9pWSil4x9zP8xcm2ga7NtDjbFVknL8zY&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&oh=00_AQK6KZbdnJGAQho-aAPYlzdIOw4z_9Z8ZC2C9TV7vxVHTg&oe=6AA00E72"
+                    }
+                ],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-08-06T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Retail traders and aspiring investors aged 20-50, primarily mobile-first, seeking reliable guidance and community support to consistently grow their trading capital.",
+                "main_pain_points": [
+                    "Overwhelming market complexity",
+                    "Consistent losses without a proven edge",
+                    "Lack of trustworthy trading communities",
+                    "Time constraints preventing active market analysis"
+                ],
+                "main_desires": [
+                    "Financial independence through trading",
+                    "Becoming a consistent, confident market participant",
+                    "Access to a proven, master-level strategy without years of trial and error",
+                    "Mobile flexibility to trade anytime, anywhere"
+                ],
+                "primary_hook": "Become a Master – the fast-track path from trader to market pro.",
+                "hook_type": "Aspirational transformation",
+                "marketing_angle": "Position the app as the definitive mobile gateway to trading mastery, leveraging community wisdom and proven signals to shorten the learning curve.",
+                "emotional_triggers": [
+                    "Desire for financial freedom",
+                    "Fear of stagnation in trading results",
+                    "Aspiration to join an elite community",
+                    "Confidence from having a proven edge"
+                ],
+                "copywriting_patterns": [
+                    "Imperative CTAs like 'Install now'",
+                    "Before/after transformation narratives",
+                    "Benefit-first phrasing",
+                    "Community-centric language ('Join those who master the markets')"
+                ],
+                "cta_strategy": "Direct, mobile-optimized install CTA paired with an immediate value promise; frictionless path to app store with social proof displayed pre-click via video teaser.",
+                "why_this_ad_may_work": "Combines aspirational branding ('Become a Master') with a low-friction mobile CTA, supported by video format for engagement. In the trading niche, credibility + ease of access drives installs. The 'play.google.com' caption signals direct app-store optimization, while the video format allows quick demonstration of platform value.",
+                "video_ad_concept": "Vertical video (9:16) under 15s: Opens with a relatable trader staring at chaotic charts, frustrated. Quick cut to clean, simple CrowdWisdomTrading interface showing precise, winning signals. Real user testimonial snippets overlayed. Text overlay: 'Stop guessing. Start mastering.' Ends with 'Install now' and app store icon. Pacing: 0.5s cuts, upbeat background track, clear CTA."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1836263311112683",
+                "page_name": "BiDana-Trading Platform",
+                "page_profile_url": "https://www.facebook.com/61573667109587/",
+                "is_active": true,
+                "caption": "play.google.com",
+                "body": null,
+                "title": null,
+                "cta_text": "Install now",
+                "cta_type": "INSTALL_MOBILE_APP",
+                "link_url": "http://play.google.com/store/apps/details?id=com.indone.trade",
+                "display_format": "VIDEO",
+                "videos": [
+                    {
+                        "video_hd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNPGGHZGKNNm2m-XNbQAgbrYXKtvssPnpUpiqqXUT15Om79AUQF0WF2WtelK1xv8gasDl3UIA0G0f4POc0l-xu7F3EDGiQ5qkV2hq0jR0bgrw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=MbudCBkBfaQQ7kNvwHy2WVB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNTE1NDM2NDUzOTI0MjQsImFzc2V0X2FnZV9kYXlzIjozNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwMjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f7d9825d2a2e6dfe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQzRGRjdBM0EyNjExRUEwQkRGNTI2MDMyQTBFQTA4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQyNDQzMkU1ODA3QzE3Q0I4RDk2MEJEMDE5MTczQTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQuJ6rqbTSBxUCKAJDMywXQI_rMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJBTkyw9li3K7sIh1bMRij-fMabfRR_SKDVVFFLb6Ht4Q&oe=6AA00319",
+                        "video_sd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOje6PS4EGvTOta2qRDIAFVXDyhi--wYvOhJHDRfxyVD3uKOM9Ojlgi0CUJFQhSK8BSvyvF6H3hNb93lvX5o2ca5OkTy1CFuacqOWeqNA.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=IUsQCU-r_NAQ7kNvwFRddOX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMjg4LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE1MTU0MzY0NTM5MjQyNCwiYXNzZXRfYWdlX2RheXMiOjM3LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTAyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJMgNzvPsAIJrBFsyTAu5TNmnTISclncD3yxHO6JKBAQg&oe=6A9FF82E",
+                        "video_preview_image_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.35426-6/758501491_1024583690457359_5685170333333073157_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OOVF40lB8MAQ7kNvwGCMU2j&_nc_oc=AdqQAVhYRmkIdk_naLO4mAvUuSdQi1LKAD9DAQWfxA037b6XY1KcSMwIYwjn_2E4qR0&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&oh=00_AQI529uB3usIvZT1xX45nCcf_6B08UZIQd7FAAx8bqnLaA&oe=6AA00C42"
+                    }
+                ],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-07-28T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Aspiring and beginner-to-intermediate traders aged 22-45 who are seeking financial independence, looking for trading signals or community-driven trade insights, and are active on mobile devices. Likely includes side hustlers, freelancers, and anyone exploring alternative income streams through stock/crypto/forex markets.",
+                "main_pain_points": [
+                    "Feeling overwhelmed by complex trading platforms and chart analysis",
+                    "Lack of reliable trade signals or market insights to make informed decisions",
+                    "Fear of losing money due to uninformed trading decisions",
+                    "Struggling to find a trustworthy community or mentor for guidance",
+                    "Wasting time researching markets without consistent results"
+                ],
+                "main_desires": [
+                    "Financial freedom and supplemental or primary income through trading",
+                    "Access to proven trade signals and real-time market calls",
+                    "A supportive community of like-minded traders sharing strategies",
+                    "Simplicity — a plug-and-play approach to trading without deep technical knowledge",
+                    "Wealth building and long-term financial security"
+                ],
+                "primary_hook": "A high-impact opening showing real-time trade alerts, profit notifications, or a dramatic before/after financial transformation — e.g., 'What if you could copy the trades of successful traders in real time?' or a bold claim like 'This signal just printed 12% in 24 hours.'",
+                "hook_type": "Curiosity gap / Social proof / Bold claim",
+                "marketing_angle": "Community-driven trading intelligence — position the platform as a shortcut to smarter trading by aggregating real signals, expert insights, and crowd wisdom into one simple mobile app. The angle is 'stop guessing, start trading with the crowd that knows.'",
+                "emotional_triggers": [
+                    "FOMO — fear of missing out on profitable trades others are already taking",
+                    "Hope — belief that financial freedom is achievable with the right tool",
+                    "Relief — the idea that someone else does the heavy lifting of market analysis",
+                    "Trust — social proof from community members showing real results",
+                    "Urgency — limited-time signals or exclusive access to high-probability trades"
+                ],
+                "copywriting_patterns": [
+                    "Before/After transformation narrative",
+                    "Social proof stacking (testimonials, profit screenshots, user counts)",
+                    "Stacking value props (signals + community + simplicity)",
+                    "Pattern interrupt — bold visual or text hook in first 3 seconds",
+                    "Authority positioning ('Trusted by X,000+ traders')",
+                    "Loss aversion framing ('Every day you wait is money left on the table')"
+                ],
+                "cta_strategy": "Direct app install CTA ('Install now') optimized for bottom-of-funnel conversion. The ad should use a two-step approach: video hook captures attention, then the CTA drives to Google Play. Consider adding a secondary soft CTA within the video (e.g., 'Link in bio' or 'Swipe up') for users who aren't ready to install immediately, retargeting them later.",
+                "why_this_ad_may_work": "The combination of a video-first creative with a clean app-install CTA leverages the highest-engaging format on Meta for this niche. Trading content is inherently visual and dynamic — real-time charts, profit flashes, and trade alerts naturally stop the scroll. The simplicity of the funnel (video → Play Store → install) reduces friction. The trading niche has high intent audiences already searching for solutions, making cold-click conversion rates stronger than average when the hook is precise.",
+                "video_ad_concept": "A 15-30 second hook-heavy video ad. Seconds 1-3: Bold text overlay or narrator hook ('9 out of 10 trades this week were winners — here's how'). Seconds 3-8: Quick montage of real trade alerts popping up, profit percentages flashing, and a live community chat feed showing members reacting. Seconds 8-15: A simplified UI walkthrough of the app showing how easy it is to receive signals and execute trades. Seconds 15-25: Social proof montage — user testimonials or profit screenshots with timestamps. Final 3-5 seconds: CTA overlay ('Install Now — Join 10,000+ Smart Traders') with the Google Play badge and a countdown or urgency element. Color palette: dark background with green/gold accent colors to evoke finance and prosperity. Tone: confident, urgent, community-driven."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "2822810604737569",
+                "page_name": "Lemonn",
+                "page_profile_url": "https://www.facebook.com/lemonnhq/",
+                "is_active": true,
+                "caption": "play.google.com",
+                "body": "You don't need to watch charts all day to catch the right trade.\n\n✅  BOLT on Lemonn tracks the market for you\n✅  Sends real-time F&O signals when a setup is ready\n✅  Entry, TP, and SL all predefined\n\nDownload Lemonn today & explore BOLT ⚡",
+                "title": "Explore F&O setups on BOLT",
+                "cta_text": "Install now",
+                "cta_type": "INSTALL_MOBILE_APP",
+                "link_url": "http://play.google.com/store/apps/details?id=com.lemonn.app",
+                "display_format": "VIDEO",
+                "videos": [
+                    {
+                        "video_hd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZWAYjVC09e0a9ER_8C0brQI_fHa0und9zMCyneKSQRqJk5xgtSyX9CBUcMQRpW7GYigf396uwXOuEFTczpOmCF7jrCiUXJwtI1wXQ36HrGw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=7mdei5ktLzcQ7kNvwEeu_1H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjY5ODUzNjY0NTM1MTQsImFzc2V0X2FnZV9kYXlzIjo2NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=65a713d4a786f58e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQzRBODM3OTJBM0I0QUY4RDYwODdBREE5OENDRkM4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBGNEI4MERBMTMwMkRGNEJCNDkxMTU0QjEwQjUyMTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaU9KeftYLTAxUCKAJDMywXQElgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&_nc_zt=28&oh=00_AQI3GvurjQVJOxfkw51aXsF-RbDKQpSi5wfz8vmqXM6d-g&oe=6A9FFA2C",
+                        "video_sd_url": "https://video-phl2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNGzAQ3uAlfYCTTGMBYs5FyqnWBIX8wRfZCqZnom_8ubMNgg4UX3lKtOSqYYlXRRcNsjPgkHZWyN8hXFNTVyU6YIpgmw5I3bgI9PkHH0w.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-phl2-1.xx.fbcdn.net&_nc_ohc=leCANZbWSscQ7kNvwEDkIfi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAyNjk4NTM2NjQ1MzUxNCwiYXNzZXRfYWdlX2RheXMiOjY2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&_nc_zt=28&oh=00_AQJGn2Rub_fxCvttVnYziaFRPaIIdDDmHhN3wnHK_7BS6A&oe=6AA00A06",
+                        "video_preview_image_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.35426-6/733233150_1377922500884108_8058646226350664900_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sFx1--UP7WwQ7kNvwFnJrZK&_nc_oc=AdrEiG7cPh3ga6PdstSLtRO07RmE51N9ONUlvUTU3UGmsAyJM34Nxw7RwC55xZbFUTo&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=OKjg4J6zNTH5S3J39kV0yA&_nc_ss=7f289&oh=00_AQK_c6EFs_EOyVYWlLQcwkDZiV2QMo-nc1yhZPmU2PsqXQ&oe=6AA00F92"
+                    }
+                ],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-06-29T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Retail F&O and equity traders who rely on mobile trading, have limited time to monitor markets, and seek high-probability setups with defined risk.",
+                "main_pain_points": [
+                    "Spending excessive time monitoring charts without catching quality setups",
+                    "Uncertainty in determining entry, target, and stop-loss levels",
+                    "Missing real-time opportunities due to market hours or screen time constraints",
+                    "Information overload from multiple sources without clear actionable signals"
+                ],
+                "main_desires": [
+                    "Time-efficient trading that fits into a busy schedule",
+                    "High-probability entries with predefined risk/reward",
+                    "Real-time alerts without constant screen monitoring",
+                    "Confidence in trade execution based on a trusted system"
+                ],
+                "primary_hook": "Don't watch charts all day — let the setups come to you.",
+                "hook_type": "Time-recovery automation",
+                "marketing_angle": "Trade smarter, not harder. Recover your time while capturing high-probability F&O setups with real-time, predefined signals.",
+                "emotional_triggers": [
+                    "Relief from not having to stare at screens all day",
+                    "Exclusive feeling of receiving 'insider' alerts",
+                    "Confidence in knowing risk is defined before entry",
+                    "FOMO of missing out on easy setups"
+                ],
+                "copywriting_patterns": [
+                    "Benefit-driven bullet points for scannability",
+                    "Emoji usage to break text and signal importance",
+                    "Direct, imperative CTA language",
+                    "Risk-reward clarity (entry/TP/SL predefined)"
+                ],
+                "cta_strategy": "Low-friction mobile CTA emphasizing instant access. Frame as 'Start receiving signals in seconds' with a sense of immediacy and simplicity.",
+                "why_this_ad_may_work": "Directly addresses the #1 trader pain (time), offers a clear, tangible benefit (predefined signals), uses social proof (BOLT platform), and removes execution friction with a single-tap CTA. The emoji-aided format improves mobile scannability.",
+                "video_ad_concept": "Opening scene shows a trader exhausted at multiple monitors, missing setups. Phone buzzes with a push notification: 'F&O signal ready — Entry: X, TP: Y, SL: Z.' Quick screen recording of a one-tap trade execution. Overlay text: 'Stop watching. Start receiving.' Ends with CTA: 'Download CrowdWisdomTrading — Get your first signal in 60 seconds.' Includes fast-paced editing, subtle sound design for notifications, and on-screen arrows highlighting entry/TP/SL levels."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1463164691967160",
+                "page_name": "stockyaari",
+                "page_profile_url": "https://www.facebook.com/stockyaari/",
+                "is_active": true,
+                "caption": "play.google.com",
+                "body": "Still searching for the right trading signals app? 🔎Thousands of traders are switching to StockYaari. Inside you’ll get: ✅ SEBI Certified Calls ✅ Automated RA Signals ✅ Instant Stock Alerts ✅ Equity + MCX Coverage 📈All starting at ₹8.21/day.🚀 Upgrade your trading experience.",
+                "title": "Real-Time Stock Alerts & Signals",
+                "cta_text": "Install now",
+                "cta_type": "INSTALL_MOBILE_APP",
+                "link_url": "http://play.google.com/store/apps/details?id=com.tnibro",
+                "display_format": "IMAGE",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-04-09T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Indian retail traders and investors actively seeking reliable trading signals, ranging from beginners overwhelmed by choices to intermediate traders looking for automated alerts covering both equity and commodity (MCX) markets",
+                "main_pain_points": [
+                    "Difficulty finding a trustworthy and reliable trading signals app among thousands of options",
+                    "Lack of real-time, actionable alerts leading to missed trading opportunities",
+                    "Absence of SEBI-certified signal providers creating trust and safety concerns",
+                    "Fragmented tools — needing separate apps for equity and commodity trading signals"
+                ],
+                "main_desires": [
+                    "Access to SEBI-certified, credible trading calls that inspire confidence",
+                    "Automated and instant stock alerts to never miss a market move",
+                    "An all-in-one platform covering both equity and MCX (commodity) markets",
+                    "A low-cost entry point that makes professional-grade signals accessible to everyday traders",
+                    "A seamless, upgraded trading experience that feels modern and efficient"
+                ],
+                "primary_hook": "Still searching for the right trading signals app?",
+                "hook_type": "Pain-point identification / Frustration hook",
+                "marketing_angle": "Affordability meets credibility — positioning StockYaari as the cheapest (₹8.21/day) yet most trustworthy (SEBI-certified) all-in-one trading signals solution covering equity and MCX, leveraging social proof ('thousands of traders are switching') to drive urgency",
+                "emotional_triggers": [
+                    "Frustration from prolonged search for the right tool",
+                    "FOMO — 'thousands of traders are switching' implies everyone is moving except you",
+                    "Trust and safety — SEBI certification reassures risk-averse Indian traders",
+                    "Excitement and aspiration — 🚀 framing signals a transformative upgrade",
+                    "Price relief — ₹8.21/day triggers an impulse to act due to perceived low risk"
+                ],
+                "copywriting_patterns": [
+                    "Pain-point-first open → Solution reveal structure",
+                    "Benefit bullet listing with visual emoji cues (✅) for scannability",
+                    "Social proof embedded in the body copy",
+                    "Price anchoring at a daily rate to make cost feel negligible",
+                    "Dual-market coverage as a value multiplier (Equity + MCX)",
+                    "Emoji-heavy formatting for visual engagement in feed",
+                    "Urgency/aspiration close ('Upgrade your trading experience')"
+                ],
+                "cta_strategy": "Direct, low-friction action command ('Install now') paired with a Play Store link in the caption — removes decision friction and immediately moves the user from consideration to conversion with a single tap",
+                "why_this_ad_may_work": "The ad effectively combines a relatable pain-point hook with a low-risk price point (₹8.21/day), credible trust signals (SEBI certification), broad market coverage (Equity + MCX), and social proof to create a compelling value proposition. The daily pricing model makes the investment feel trivial, while the checklist format delivers clear, scannable benefits. The combination of trust + affordability + convenience addresses the core hesitation points that prevent Indian retail traders from committing to signal subscription services.",
+                "video_ad_concept": "A 15-30 second hook-first video ad opening with a frustrated trader scrolling through multiple trading apps on their phone (relatability). Cut to StockYaari's interface showing real-time alerts and signals popping up with sound effects, overlaid with text: 'SEBI Certified ✅ | ₹8.21/day'. Show a split-screen of equity and MCX charts updating live. End with a confident trader smiling at their phone with a profit notification, text overlay: 'Thousands of traders already switched 🚀', and CTA button animation: 'Install Now'. Use bold, high-contrast colors and rapid cuts to maintain attention in the first 3 seconds."
+            }
+        },
+        {
+            "ad": {
+                "ad_id": "1011062878555972",
+                "page_name": "Aristotle Investments",
+                "page_profile_url": "https://www.facebook.com/100028366405665/",
+                "is_active": true,
+                "caption": "https://www.honeydripnetwork.com/free-trial",
+                "body": "For a Limited Time we are letting people get inside our world famous discord FREE‼️ \nONLY 250 SLOTS (they sell out FAST)\n\nCHANGE YOUR LIFE TODAY‼️\n✅ BEGINNERS OPTIONS MASTER CLASS\n✅ BEGINNERS INVESTING/CHARTING GUIDE\n✅ LIVE TRADING EVERYDAY\n✅ SMALL ACCOUNT CHALLENGE \n✅ Q&A EVERY FRIDAY\n✅ LONG TERM PORTFOLIO MANAGEMENT \n✅ ADMIN SUPPORT\n✅ TEXT SIGNALS \n✅WATCHLIST EVERDAY",
+                "title": "ONLY 250 slots available, GET YOURS‼️",
+                "cta_text": "Sign up",
+                "cta_type": "SIGN_UP",
+                "link_url": "https://www.honeydripnetwork.com/free-trial",
+                "display_format": "IMAGE",
+                "videos": [],
+                "platforms": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                ],
+                "start_date": "2026-05-17T07:00:00.000Z",
+                "end_date": "2026-09-03T07:00:00.000Z",
+                "categories": null,
+                "raw_source": "meta_ad_library"
+            },
+            "ai_analysis": {
+                "target_audience": "Beginner to intermediate traders and investors with small accounts, eager to learn trading skills and join a supportive community for signals and education.",
+                "main_pain_points": [
+                    "Lack of structured education and guidance for beginners in trading",
+                    "Fear of missing out on profitable opportunities due to limited access to expert insights",
+                    "Difficulty finding reliable trading signals and community support",
+                    "Overwhelm from the complexity of investing, especially for small accounts"
+                ],
+                "main_desires": [
+                    "Quickly master trading skills through proven methods",
+                    "Gain access to exclusive, high-quality trading signals and resources",
+                    "Join a trusted community for ongoing support and learning",
+                    "Achieve financial transformation and build confidence in investing"
+                ],
+                "primary_hook": "ONLY 250 slots available, GET YOURS feas",
+                "hook_type": "Scarcity-based hook with urgency",
+                "marketing_angle": "Free premium access to a comprehensive trading education community, leveraging social proof and limited-time offers to drive sign-ups.",
+                "emotional_triggers": [
+                    "FOMO (Fear Of Missing Out) from limited slots",
+                    "Desire for life-changing financial improvement",
+                    "Trust and credibility from 'world famous' and verified benefits",
+                    "Excitement and anticipation from live trading and signals"
+                ],
+                "copywriting_patterns": [
+                    "Use of scarcity and urgency: 'ONLY 250 SLOTS', 'they sell out FAST'",
+                    "Bullet points to highlight key benefits clearly",
+                    "Emojis and symbols (e.g., ✅, 📈) to enhance visual appeal and readability",
+                    "Capitalization for emphasis: 'CHANGE YOUR LIFE TODAY'",
+                    "Direct and action-oriented language: 'GET YOURS', 'Sign up'"
+                ],
+                "cta_strategy": "A clear, low-friction call-to-action ('Sign up') paired with a direct URL, leveraging the scarcity hook to encourage immediate clicks.",
+                "why_this_ad_may_work": "It effectively combines scarcity with a high-value free offer, targeting beginners' core needs for education and community. The urgency drives quick action, while the detailed benefits build trust and perceived value.",
+                "video_ad_concept": "A 30-second video ad for CrowdWisdomTrading could open with a bold text overlay: 'ONLY 250 FREE SLOTS – ENDS SOON!'. Use quick cuts of dynamic trading charts, testimonials from successful members, and visuals of a lively Discord community. Highlight key benefits like 'Live Trading Sessions' and 'Beginner-Friendly Guides' with on-screen text. End with a strong CTA: 'SIGN UP NOW – LINK IN BIO' to capitalize on urgency."
+            }
+        }
+    ]
+}

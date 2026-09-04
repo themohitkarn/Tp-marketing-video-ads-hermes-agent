@@ -1,0 +1,212 @@
+{
+    "generated_at": "2026-09-04T09:09:06.885624",
+    "brand": "CrowdWisdomTrading",
+    "storyboards": {
+        "storyboards": [
+            {
+                "ad_number": 1,
+                "ad_type": "Pain-Point Driven",
+                "title": "Stop Drowning in Complexity",
+                "target_icp": "Emerging market retail traders (18-35) - India, Philippines, Indonesia, Southeast Asia",
+                "duration_seconds": 45,
+                "core_pain_point": "Overwhelming complexity of trading platforms, fear of losing money, information overload",
+                "marketing_angle": "Pain-Point Identification + Authority/Social Proof",
+                "visual_hook": "Close-up of a trader's eyes widening as multiple flashing indicator lights on a trading dashboard blind them, then cut to dark blue screen with glowing green 'CrowdWisdom' logo appearing",
+                "voiceover_hook": "How many hours have you spent trying to figure out which platform to use... only to feel more lost?",
+                "cta": "Start Trading Smarter — Install CrowdWisdomNow",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 3,
+                        "visual": "A trader at a desk surrounded by numerous device screens, each displaying confusing charts, alerts, and error messages. Their face shows exhaustion and confusion.",
+                        "voiceover": "How many hours have you spent trying to figure out which trading platform to use... only to feel more lost?",
+                        "text_overlay": "TRADE OVERWHELMED?",
+                        "emotion": "Frustration",
+                        "purpose": "Pattern Interrupt - Visual chaos to grab attention, establishing the pain point"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 7,
+                        "visual": "Quick cut to a phone pushing a notification: 'Average retail trader loses 68% of sessions without proper signal filtering'. Then to a graph showing rising stress indicators.",
+                        "voiceover": "In 2026, 68% of beginners abandon trading because the platforms don't speak plain language—just code and jargon.",
+                        "text_overlay": "68% ABANDON TRADING",
+                        "emotion": "Shock",
+                        "purpose": "Validate pain point with hard data, deepen emotional tension"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 8,
+                        "visual": "Split screen: Left side shows a cluttered spreadsheet with conflicting signals. Right side shows CrowdWisdom's clean, organized interface with one clear signal.",
+                        "voiceover": "But in CrowdWisdomTrading, complexity disappears. One tap. Clear signals. No noise.",
+                        "text_overlay": "ONE TAP. CLEAR SIGNS.",
+                        "emotion": "Awe",
+                        "purpose": "Introduce product as solution to complexity frustration"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 10,
+                        "visual": "User experiencing relief, moving fluidly through the platform, receiving real-time alerts. Progress bar filling with confidence.",
+                        "voiceover": "Millions of traders worldwide have found the same breakthrough. Simple. Accessible. Built for you.",
+                        "text_overlay": "JOIN 50,000+ TRADERS",
+                        "emotion": "Hope",
+                        "purpose": "Demonstrate product effectiveness and build trust through social proof"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 10,
+                        "visual": "Full-screen Counter: '1,247 active traders in your network' pulsing gently. Small avatar icons appear around it.",
+                        "voiceover": "And you're not alone. CrowdWisdom connects you with a community of skilled traders sharing real-time insights.",
+                        "text_overlay": "YOUR COMMUNITY IS WAITING",
+                        "emotion": "Belonging",
+                        "purpose": "Leverage social proof and community angle"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 12,
+                        "visual": "Call-to-action sequence: Screenshot of installation screen → finger tapping 'Install' → CrowdWisdom logo with playful emojis.",
+                        "voiceover": "Join the movement. Get access to vetted signals, educational resources, and smart community connections. Start today.",
+                        "text_overlay": "CRAWDWISDOMTRADING.COM",
+                        "emotion": "Anticipation",
+                        "purpose": "Direct conversion with clear CTA and brand URL"
+                    }
+                ]
+            },
+            {
+                "ad_number": 2,
+                "ad_type": "Data / Insight Driven",
+                "title": "The Hidden Cost of Fragmented Trading",
+                "target_icp": "Mobile-first retail traders (18-45) - Southeast Asia and India",
+                "duration_seconds": 45,
+                "core_pain_point": "High costs, scattered tools, time scarcity",
+                "marketing_angle": "All-In-One Solution Positioning + Benefit-Driven Value Proposition",
+                "visual_hook": "Animated timeline showing a trader's monthly earnings dwindling while tool subscriptions multiply, ending with a single line representing CrowdWisdom's consolidated value",
+                "voiceover_hook": "Did you know that fragmented trading tools cost an average of $180 annually per trader? Yet the gap between potential and reality is massive.",
+                "cta": "Explore Free Trial — Start With Zero Risk",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 4,
+                        "visual": "An abstract timeline animation: left side shows individual trading platforms multiplying (chart going up), right side shows dollar signs disappearing. Center collapses into a single flat line labeled 'CrowdWisdom'.",
+                        "voiceover": "Did you know that fragmented trading tools cost an average of $180 annually per trader? Yet the gap between potential and reality is massive.",
+                        "text_overlay": "THE COST OF FRAGMENTATION",
+                        "emotion": "Realization",
+                        "purpose": "Pattern Interrupt with shocking statistic to establish authority and insight-driven appeal"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 8,
+                        "visual": "Quick montage: Screens of 5 different trading apps each with unique interfaces, warning symbols, and complex menus. Transition to a clean, unified interface.",
+                        "voiceover": "With CrowdWisdom, all signals, education, and community converge into one intuitive platform—so you spend less time searching and more time trading.",
+                        "text_overlay": "YOUR ALL-IN-ONE TRADING HUB",
+                        "emotion": "Relief",
+                        "purpose": "Present the all-in-one solution that solves fragmentation pain"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 12,
+                        "visual": "Data visualization: Bar chart comparing time spent on setup versus active trading. On left: tradingers stuck in admin work. On right: smooth progress toward goals. Highlight: 'Save 15+ hours weekly' animated arrow.",
+                        "voiceover": "Consolidate signals, education, and community. Reclaim your time and slash unnecessary costs.",
+                        "text_overlay": "SAVE TIME. SAVE MONEY.",
+                        "emotion": "Efficiency",
+                        "purpose": "Quantify the benefit of the all-in-one approach and reinforce value proposition"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 10,
+                        "visual": "Footage of diverse hands holding smartphones, all smiling and engaged, with subtle stock ticker symbols floating around. Background music becomes uplifting.",
+                        "voiceover": "From Mumbai to Manila, traders across emerging markets are finally trading smarter—not later.",
+                        "text_overlay": "FINANCIAL FREEDOM STARTS HERE",
+                        "emotion": "Inspiration",
+                        "purpose": "Connect product benefits to aspirational outcomes"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 10,
+                        "visual": "Clean screen showing the signing up flow: 'Sign Up Free', progress bar at 70%, confirmation circle with heart emoji.",
+                        "voiceover": "No hidden fees. No hidden costs. Just pure trading intelligence tailored for your market.",
+                        "text_overlay": "NO HIDDEN FEES. REAL VALUE.",
+                        "emotion": "Assurance",
+                        "purpose": "Build trust by emphasizing cost transparency and value deliverability"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 13,
+                        "visual": "Final CTA sequence: Large 'START NOW' button with live counter '5,200 users today', followed by website URL and social handles.",
+                        "voiceover": "Join 5,200+ traders already cutting through the noise. Visit crowdwisdomtrading.com and start your journey.",
+                        "text_overlay": "CRAWDWISDOMTRADING.COM → START NOW",
+                        "emotion": "Action",
+                        "purpose": "Strong conversion-focused conclusion with urgent yet welcoming CTA"
+                    }
+                ]
+            },
+            {
+                "ad_number": 3,
+                "ad_type": "Transformation / Before-After",
+                "title": "From Overwhelmed to Confident",
+                "target_icp": "Young retail investors (18-32) seeking side income and financial independence",
+                "duration_seconds": 45,
+                "core_pain_point": "Feeling lost, fearful of losing money, overwhelmed by complexity",
+                "marketing_angle": "Identity Transformation + Democratization/Accessibility",
+                "visual_hook": "Split-screen dramatic reveal: Left side shows a tired trader staring at chaotic chart explosion, right side shows the same trader smiling at a calm, controlled screen with CrowdWisdom open.",
+                "voiceover_hook": "You've been trading for months. Here's what happens when you stop fighting the system and start working WITH it.",
+                "cta": "Get In — Become a Confident Trader",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 4,
+                        "visual": "Split-screen: Left — exhausted trader at 2 AM, head in hands, screens showing conflicting signals. Right — same person, refreshed, looking at clean CrowdWisdom dashboard with green checkmarks.",
+                        "voiceover": "You've been trading for months. Here's what happens when you stop fighting the system and start working WITH it.",
+                        "text_overlay": "FROM OVERWHELMED TO CONFIDENT",
+                        "emotion": "Contrast",
+                        "purpose": "Powerful visual hook establishing transformation narrative"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 9,
+                        "visual": "Rapid montage of daily struggles: Late-night chart-scrolling, coffee cups stacking up, worried expressions, 'ERROR' pop-ups flashing on screen.",
+                        "voiceover": "Every night, you wonder if this is possible. Every session ends with more questions than answers.",
+                        "text_overlay": "THE DAILY STRUGGLE",
+                        "emotion": "Empathy",
+                        "purpose": "Deepen emotional connection with audience's specific experiences"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 10,
+                        "visual": "Beautiful motion graphics: A simple icon of a lightbulb forming into a trading arrow. Numbers animate: 'Learning curves improving', 'First profitable week', 'New community achieved'.",
+                        "voiceover": "But with CrowdWisdom, complexity vanishes. Instant access to curated signals and expert insights puts the power of smart trading in your palm.",
+                        "text_overlay": "YOUR PATH TO MASTERY",
+                        "emotion": "Motivation",
+                        "purpose": "Introduce product as the catalyst for transformation"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 12,
+                        "visual": "Time-lapse style: Morning sunrise, the trader opens CrowdWisdom, executes a clean trade (screen highlights smooth green entry/stop levels), then moves to evening reflection with satisfaction.",
+                        "voiceover": "Like [name], a fellow trader in Vietnam, went from stressing over 10 separate apps to achieving three consistent weekly wins within six weeks using CrowdWisdom.",
+                        "text_overlay": "[NAME] — 3 WINS PER WEEK",
+                        "emotion": "Credibility",
+                        "purpose": "Social proof through real person demonstration"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 10,
+                        "visual": "Split-screen again: Left — a crowded marketplace of confusing tools with red warning labels. Right — a single, brightly lit screen of CrowdWisdom with a green 'SUCCESS' badge.",
+                        "voiceover": "Don't lose your time. Don't suffer from fragmented signals. CrowdWisdom delivers one clear path to profitable trading, wherever you are.",
+                        "text_overlay": "TIME. MONEY. FREEDOM.",
+                        "emotion": "Clarity",
+                        "purpose": "Reiterate core message with crisp value statement"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 15,
+                        "visual": "Dynamic CTA sequence: Website URL pulses, followed by a giant 'INSTALL' button, then a countup timer '24 HOURS TO FIRST WIN', finishing with Twitter/X handle and Instagram profile.",
+                        "voiceover": "Ready to take control of your trading journey? Visit crowdwisdomtrading.com and start building your confidence, one signal at a time.",
+                        "text_overlay": "CRAWDWISDOMTRADING.COM | INSTALL NOW",
+                        "emotion": "Determination",
+                        "purpose": "Clear, memorable, multi-modal CTA for bottom-of-funnel conversion"
+                    }
+                ]
+            }
+        ]
+    }
+}

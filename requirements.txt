@@ -1,0 +1,7 @@
+requests
+python-dotenv
+openai
+tavily-python
+apify-client
+pydantic
+rich

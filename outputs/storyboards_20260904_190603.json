@@ -1,0 +1,376 @@
+{
+    "generated_at": "2026-09-04T19:06:03.388569",
+    "brand": "CrowdWisdomTrading",
+    "source_scripts": "scripts_20260904_190325.json",
+    "storyboards": {
+        "storyboards": [
+            {
+                "ad_number": 1,
+                "ad_type": "Problem-Solution Split Screen",
+                "title": "The Chart Trap",
+                "target_icp": "Retail traders who spend excessive hours monitoring markets and still feel unprepared",
+                "duration_seconds": 45,
+                "core_pain_point": "Information overload leading to decision paralysis and exhaustion",
+                "marketing_angle": "Contrast chaos of multiple charts with the clarity of a unified dashboard",
+                "visual_hook": "Split-screen showing chaotic multi-monitor setup transforming into clean CrowdWisdomTrading interface",
+                "voiceover_hook": "Stop drowning in charts — CrowdWisdomTrading turns market noise into clarity.",
+                "cta": "Start trading smarter — learn more",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 4,
+                        "visual": "Extreme close-up shot of tired eyes reflected in a monitor screen showing rapidly scrolling candlestick charts. Subtle eye strain visible. Background blur of multiple monitor bezels. Harsh blue monitor light casting shadows under eyes. Camera slowly pulls back to reveal the full chaotic setup.",
+                        "voiceover": "You're watching RSI, MACD, volume spikes, economic calendars, Twitter feeds, and three different news sources... and you still feel unprepared.",
+                        "text_overlay": "RSI • MACD • Volume • News • Economic Calendar • Social Media",
+                        "emotion": "Overwhelm",
+                        "purpose": "Pattern interrupt hook — establish the problem immediately"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 5,
+                        "visual": "Medium shot of trader sitting at desk, rubbing temples with frustration. Clock on wall shows 11:47 PM. Cold coffee cup with lipstick mark sits untouched. Three monitors continue flashing live data. Trader's posture shows defeat — shoulders slumped, head hanging slightly. Natural light completely gone, only harsh monitor glow.",
+                        "voiceover": "You're putting in the hours. You're doing the research. But with so much noise, making a clear decision feels impossible.",
+                        "text_overlay": "Hours spent analyzing... yet still unsure",
+                        "emotion": "Frustration",
+                        "purpose": "Deepen pain point — relatable exhaustion and wasted effort"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 5,
+                        "visual": "POV shot looking down at trader's hands shuffling nervously between keyboard and mouse, switching between TradingView, Bloomberg terminal, and multiple browser windows. Rapid, anxious movements. Then a hard cut to split-screen: LEFT SIDE remains chaotic flickering monitors, RIGHT SIDE begins a slow, smooth reveal of CrowdWisdomTrading's clean, organized dashboard.",
+                        "voiceover": "What if you could filter all that noise into one clear picture?",
+                        "text_overlay": "What if you could see it all... clearly?",
+                        "emotion": "Curiosity",
+                        "purpose": "Pivot moment — introduce possibility of solution"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 6,
+                        "visual": "Slow zoom into CrowdWisdomTrading dashboard. Clean interface reveals: aggregated trader sentiment meter on the left, key support/resistance levels highlighted in center, consensus views organized in right panel. Color-coded sections glow softly — green for bullish consensus, red for bearish, neutral blue for uncertain. Subtle animated data flow between sections. Premium, professional aesthetic.",
+                        "voiceover": "CrowdWisdomTrading organizes collective market insights into structured signals. Stop drowning in data. Start trading with clarity. Spend less time staring at screens and more time making informed decisions.",
+                        "text_overlay": "Structured Insights • Market Consensus • Key Levels",
+                        "emotion": "Intrigue",
+                        "purpose": "Introduce solution — showcase platform benefits"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 5,
+                        "visual": "Close-up reaction shot of trader's face — eyes widen slightly as they focus on the organized dashboard. Tension releases from jaw. Cut to medium shot of trader leaning back in chair, relaxed posture, subtle smile forming. Camera slowly dollies out to reveal the workspace now shows only ONE clean screen with CrowdWisdomTrading dashboard instead of the previous chaos. Warm ambient lighting replaces harsh monitor glow.",
+                        "voiceover": "Most traders overload themselves with data but lack the framework to interpret it. Not anymore.",
+                        "text_overlay": "Less noise. More clarity.",
+                        "emotion": "Relief",
+                        "purpose": "Emotional transformation — show the relief of finding clarity"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 4,
+                        "visual": "Close-up of trader's hand clicking confidently on 'View Dashboard' button. Cut to elegant white screen with CrowdWisdomTrading logo centered. Subtle gradient background in brand colors. CTA button pulses gently. Professional typography. Clean negative space. Minimalist, trustworthy design aesthetic.",
+                        "voiceover": "Stop drowning in charts. CrowdWisdomTrading turns market noise into clarity.",
+                        "text_overlay": "Start trading smarter — learn more\nwww.crowdwisdomtrading.com",
+                        "emotion": "Anticipation",
+                        "purpose": "Direct CTA — clear next step for viewer"
+                    }
+                ]
+            },
+            {
+                "ad_number": 2,
+                "ad_type": "Community & Collective Intelligence",
+                "title": "Wisdom of the Crowd",
+                "target_icp": "Beginner to intermediate traders overwhelmed by conflicting market opinions and signal providers",
+                "duration_seconds": 42,
+                "core_pain_point": "Conflicting opinions from multiple sources causing confusion and lack of confidence",
+                "marketing_angle": "Visualize hundreds of viewpoints converging into clarity through community wisdom",
+                "visual_hook": "Abstract data particles representing individual traders flowing together into organized insights",
+                "voiceover_hook": "Why trust one opinion when hundreds of traders can sharpen your edge?",
+                "cta": "Explore smarter trading — sign up free",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 5,
+                        "visual": "Dark atmospheric background with hundreds of small glowing particles (each representing a trader's perspective) floating in 3D space. Colors clash and compete — some blue, some red, some yellow. Particles move chaotically, occasionally colliding. Abstract, mesmerizing visualization. Camera slowly orbits through the particle field. Ambient electronic music with subtle tension.",
+                        "voiceover": "Every trader has a perspective. Every chart tells a story. But when everyone's telling you something different... who do you trust?",
+                        "text_overlay": "Who do you trust?",
+                        "emotion": "Confusion",
+                        "purpose": "Establish problem of conflicting opinions"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 5,
+                        "visual": "Animation continues as particles begin to notice each other. Soft connections form between like-colored particles. Camera focuses on a cluster beginning to form. Warm orange and gold tones start emerging from the chaos — representing consensus building. Particles begin organizing themselves into a loose grid pattern. Music shifts to more hopeful tones.",
+                        "voiceover": "What if you could explore all those viewpoints at once — not just follow one guru or signal, but truly understand the bigger picture?",
+                        "text_overlay": "Explore all viewpoints",
+                        "emotion": "Curiosity",
+                        "purpose": "Introduce the alternative approach"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 6,
+                        "visual": "Particles converge into a solid, elegant structure — CrowdWisdomTrading dashboard takes shape in 3D visualization. Clean sections appear: sentiment gauge at top, consensus levels in middle, trend analysis at bottom. Warm professional lighting. Camera pulls back to reveal the full organized dashboard emerging from the particle field like a ship materializing from fog. Gold and warm tones dominate now.",
+                        "voiceover": "CrowdWisdomTrading aggregates and structures collective market perspectives so you can explore multiple viewpoints, reduce bias, and build your own informed approach.",
+                        "text_overlay": "Collective Intelligence • Structured Insights • Reduced Bias",
+                        "emotion": "Intrigue",
+                        "purpose": "Reveal solution with visual metaphor"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 7,
+                        "visual": "Split-screen testimonials appear: LEFT side shows real photos of diverse traders (different ages, ethnicities, setups — laptop at coffee shop, multiple monitors at home, tablet at airport). RIGHT side shows animated quote bubbles. Each testimonial slides in sequentially. Soft b-roll of traders working. Warm, encouraging background music. Quote typography is clean and modern. Three testimonials in rotation.",
+                        "voiceover": "I used to follow every signal provider out there. Now I understand WHY a trade makes sense. It's changed how I think about markets entirely. I finally feel like I'm part of something bigger.",
+                        "text_overlay": "\"Finally understood the 'why' behind my trades.\"\n\"A community that actually helps.\"\n\"No more guessing.\"",
+                        "emotion": "Hope",
+                        "purpose": "Social proof — real trader experiences"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 5,
+                        "visual": "Modern co-working space with floor-to-ceiling windows showing city skyline. Three traders gathered around a large shared screen showing CrowdWisdomTrading dashboard. Genuine smiles and animated conversation. Professional but approachable attire. Subtle handshake moment between two traders — collaboration. Aspirational yet relatable setting. Natural lighting with warm interior tones.",
+                        "voiceover": "You're not alone in this. Join a trusted community of traders building their edge together.",
+                        "text_overlay": "Join thousands of traders",
+                        "emotion": "Belonging",
+                        "purpose": "Community appeal — aspirational connection"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 4,
+                        "visual": "Warm gradient background transitioning from deep purple to soft gold. CrowdWisdomTrading logo centered with subtle glow effect. CTA button in complementary warm tone. Clean typography with clear hierarchy. Inviting design that feels premium but accessible. Subtle particle animation in background maintaining the collective intelligence theme.",
+                        "voiceover": "Explore smarter trading. Sign up free and discover what collective wisdom can do for you.",
+                        "text_overlay": "Explore smarter trading — sign up free\nwww.crowdwisdomtrading.com",
+                        "emotion": "Anticipation",
+                        "purpose": "Direct CTA with community invitation"
+                    }
+                ]
+            },
+            {
+                "ad_number": 3,
+                "ad_type": "High-Energy Problem to Calm Solution",
+                "title": "Decision Fatigue Destroyer",
+                "target_icp": "Active retail traders experiencing burnout from information overload and overtrading",
+                "duration_seconds": 38,
+                "core_pain_point": "Constant scrolling through multiple apps causing analysis paralysis and poor decisions",
+                "marketing_angle": "Abrupt contrast between frantic information consumption and calm, decisive action",
+                "visual_hook": "UGC-style POV rapid-fire app switching followed by sudden silence and clean dashboard",
+                "voiceover_hook": "Too many indicators. Too many opinions. Too many bad trades. There's a better way.",
+                "cta": "Cut through the noise — install now",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 5,
+                        "visual": "POV POV shot through trader's eyes rapidly scrolling through phone. Hand moves frantically — swipe, swipe, tap, scroll. TradingView app shows multiple indicators. Cut to Telegram with flashing messages. Cut to Twitter/X with rapid-fire opinions. Cut to Discord with chat scrolling. Cut to news site with breaking banner. Fast cuts, 1-2 seconds each. Frantic energy. Urgent electronic music beat. Phone screen brightness at max.",
+                        "voiceover": "Telegram channels. News sites. Discord groups. TradingView. You're checking them all... constantly.",
+                        "text_overlay": "5 apps in 30 seconds",
+                        "emotion": "Anxiety",
+                        "purpose": "Immersive hook — make viewer feel the chaos"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 4,
+                        "visual": "Rapid montage: Laptop screen with 15+ browser tabs all showing different analysis. Quick cut to smartwatch showing price alerts. Quick cut to second phone buzzing with notifications. Quick cut to laptop again. Split-screen in corner showing all devices at once — overwhelming visual of information coming from everywhere simultaneously. Shaky camera work emphasizing the frantic pace. Music intensifies.",
+                        "voiceover": "And somehow, after all that scrolling, you're still not sure what to do.",
+                        "text_overlay": "Still uncertain...",
+                        "emotion": "Exhaustion",
+                        "purpose": "Deepen pain — show the futility of the approach"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 4,
+                        "visual": "Close-up of trader's face showing defeat — eyes half-closed, jaw tight. Suddenly SLAMS laptop shut. Hands fly up in 'I give up' gesture. Heavy exhale audible. Head drops forward. Phone lands on desk with a thud. Complete stillness. Music cuts to silence. Camera holds on the closed laptop for a beat of pure quiet. The weight of overload is visible.",
+                        "voiceover": "Information overload is silently killing your trading performance. You're exhausted, overtrading, and second-guessing every decision.",
+                        "text_overlay": "Analysis paralysis costs you",
+                        "emotion": "Defeat",
+                        "purpose": "Emotional breaking point — relatable exhaustion"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 3,
+                        "visual": "ABRUPT CUT TO BLACK. Complete silence. One beat of nothing. Then a soft, ethereal glow begins in center of screen. CrowdWisdomTrading logo fades in gently with soft white light. Subtle relaxing ambient music begins — bells and pads. Deep breath sound effect (inhale/exhale). Transition feels like waking up from a nightmare.",
+                        "voiceover": "There's a better way.",
+                        "text_overlay": "",
+                        "emotion": "Relief",
+                        "purpose": "Pivot moment — complete contrast in energy"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 6,
+                        "visual": "Slow zoom into CrowdWisdomTrading interface. Clean, uncluttered dashboard fills screen. One hand enters frame — calm, deliberate movements. Clicking on organized sections. Each section clearly labeled: 'Market Sentiment', 'Key Levels', 'Community Views'. Color-coded with soft, easy-on-eyes palette. No flashing alerts, no urgent notifications. The interface breathes with space and clarity. Soft ambient music continues.",
+                        "voiceover": "CrowdWisdomTrading filters the noise and delivers distilled market intelligence. One clear view. No more scrolling. No more second-guessing.",
+                        "text_overlay": "One view. Complete clarity.",
+                        "emotion": "Calm",
+                        "purpose": "Solution reveal — show the antidote"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 5,
+                        "visual": "Medium shot of trader leaning back in ergonomic chair with relaxed posture. Hands folded calmly over stomach. Looking at screen with confident, focused expression. Cut to close-up of hand picking up phone, opening CrowdWisdomTrading app, and making a decisive tap — no hesitation. Cut to face showing peaceful determination. Natural window light now illuminating the scene warmly. The energy is completely transformed.",
+                        "voiceover": "Make decisions faster. Avoid the trap of over-analysis. Trade with confidence again.",
+                        "text_overlay": "Decide faster. Trade smarter.",
+                        "emotion": "Empowerment",
+                        "purpose": "Positive outcome — confident decision-making"
+                    },
+                    {
+                        "scene_number": 7,
+                        "duration_seconds": 4,
+                        "visual": "Bold, clean screen in CrowdWisdomTrading brand colors. Logo prominently displayed. Direct, confident typography. CTA button with strong contrast. Minimalist design that radiates professionalism and simplicity. Subtle gradient background suggesting calm confidence. No clutter, no distractions — just clear direction.",
+                        "voiceover": "Cut through the noise. Install CrowdWisdomTrading now.",
+                        "text_overlay": "Cut through the noise — install now\nwww.crowdwisdomtrading.com",
+                        "emotion": "Determination",
+                        "purpose": "Direct CTA with urgency"
+                    }
+                ]
+            },
+            {
+                "ad_number": 4,
+                "ad_type": "Educational Friendly Host",
+                "title": "The Beginners' Shortcut",
+                "target_icp": "Aspiring traders who have never traded or quit due to confusion and lack of structure",
+                "duration_seconds": 48,
+                "core_pain_point": "Scattered, overwhelming trading education lacking clear progression path",
+                "marketing_angle": "Friendly, non-intimidating approach that makes trading education feel achievable",
+                "visual_hook": "Animated flowcharts and visual learning aids breaking down complex concepts simply",
+                "voiceover_hook": "What if you could learn to trade with structure — not guesswork — from day one?",
+                "cta": "Start your trading journey — learn more",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 5,
+                        "visual": "Bright, modern workspace with large windows showing green plants and natural light. Friendly host (mid-30s, approachable appearance) sitting on a sleek chair, directly addressing camera with warm smile. Background has subtle trading elements — a single clean monitor showing simple charts, books on shelf, modern design. Host gestures openly and welcomingly. Warm color palette. Cinematic shallow depth of field keeping focus on host.",
+                        "voiceover": "So you want to learn to trade. But where do you start? YouTube videos? Paid courses? Random forums? Most people just... give up.",
+                        "text_overlay": "Where do I even start?",
+                        "emotion": "Curiosity",
+                        "purpose": "Friendly hook — relatable beginner question"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 5,
+                        "visual": "Animation appears beside host showing a simple stick figure with a large 'confusion cloud' above their head. Inside the cloud: scattered icons (YouTube play button, question marks, dollar signs, charts, forum bubbles) bouncing around chaotically. Tangled arrows connecting random concepts. The figure looks bewildered. Host gestures toward animation with empathetic expression. Colors are muted and slightly grey to represent confusion.",
+                        "voiceover": "The problem isn't your intelligence. It's that trading education is scattered, overwhelming, and lacks structure.",
+                        "text_overlay": "Too much scattered information",
+                        "emotion": "Recognition",
+                        "purpose": "Validate the struggle — explain why it's hard"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 6,
+                        "visual": "Animation transforms: confusion cloud disperses. Clean flowchart begins building itself step by step. First node appears: 'Confusion' in grey. Animated arrow points to second node: 'Structured Learning' in warm orange with checkmark. Arrow to third node: 'Growing Confidence' in bright green with upward arrow. Arrow to fourth node: 'Consistent Trader' in gold with trophy icon. Each node connects logically. Host points to each node as it appears. Encouraging, forward momentum.",
+                        "voiceover": "What if there was a clear path from confusion to confidence? CrowdWisdomTrading gives you that structured starting point.",
+                        "text_overlay": "Confusion → Structure → Confidence",
+                        "emotion": "Hope",
+                        "purpose": "Promise of clarity — show the path forward"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 6,
+                        "visual": "Camera smoothly transitions to animated dashboard beside host. Complex market data appears but immediately simplifies: 'Sentiment: 67% Bullish' with simple gauge, 'Support at 1.0850' with clear level line, 'Community Trend: UP' with arrow. Each section has beginner-friendly labels and tooltips. Host walks through dashboard with simple gestures. Screenshots of real trader dashboards visible in soft focus behind. Icons are friendly and non-intimidating.",
+                        "voiceover": "We organize market intelligence in a way that's easy to understand, easy to follow, and easy to build upon. No jargon. No hype. Just clear, structured insight.",
+                        "text_overlay": "Easy to understand • Easy to follow • Easy to build on",
+                        "emotion": "Relief",
+                        "purpose": "Solution demonstration — show simplicity"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 5,
+                        "visual": "Animation of a vertical skill tree or progress path. Root node: 'Basics' with a small sprout icon. Second level: 'Reading Charts' with sapling icon. Third level: 'Understanding Trends' with growing tree. Fourth level: 'Independent Trading' with full tree. Each level lights up sequentially. Small achievement badges appear: 'First View', 'First Analysis', 'First Trade'. Progress bar fills with warm gradient. Host gestures encouragingly. Celebratory but subtle sound effects.",
+                        "voiceover": "You're not just getting signals or tips. You're building a lifetime skill — improving your financial literacy and market understanding step by step.",
+                        "text_overlay": "Building skills that last a lifetime",
+                        "emotion": "Motivation",
+                        "purpose": "Long-term value proposition — skills over shortcuts"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 5,
+                        "visual": "Host leans forward with sincere, friendly expression. Background subtly shows community activity — scrolling testimonial cards, trader avatars, discussion snippets. Warm, collaborative atmosphere. Host's body language is open and encouraging. Camera slowly pushes in for a more intimate feel. Soft background blur of the active community behind.",
+                        "voiceover": "Most beginners jump in blind and lose money learning the hard way. Don't be one of them. Start smart.",
+                        "text_overlay": "Don't learn the hard way",
+                        "emotion": "Encouragement",
+                        "purpose": "Warn against common mistake — position as smarter choice"
+                    },
+                    {
+                        "scene_number": 7,
+                        "duration_seconds": 4,
+                        "visual": "Clean, welcoming screen design. CrowdWisdomTrading logo with friendly, approachable styling. Warm gradient background (soft blues and greens suggesting growth). CTA button prominently displayed with inviting copy. Simple icons suggesting education and community. Design feels like an open door rather than a hard sell. Typography is rounded and friendly.",
+                        "voiceover": "Start your trading journey today. Learn more and discover how structured insight can change everything.",
+                        "text_overlay": "Start your trading journey — learn more\nwww.crowdwisdomtrading.com",
+                        "emotion": "Anticipation",
+                        "purpose": "Direct CTA with welcoming invitation"
+                    }
+                ]
+            },
+            {
+                "ad_number": 5,
+                "ad_type": "Cinematic Emotional Journey",
+                "title": "The Missing Piece",
+                "target_icp": "Traders who follow signals or strategies but still feel like they're missing the bigger picture",
+                "duration_seconds": 50,
+                "core_pain_point": "Following signals blindly without understanding why trades make sense",
+                "marketing_angle": "Cinematic empowerment — revealing the missing perspective that transforms traders",
+                "visual_hook": "Solo trader in atmospheric evening setting, dramatic reveal of complete market picture",
+                "voiceover_hook": "You're not a bad trader. You just don't have the full picture yet.",
+                "cta": "See what you've been missing — sign up free",
+                "scenes": [
+                    {
+                        "scene_number": 1,
+                        "duration_seconds": 6,
+                        "visual": "Cinematic establishing shot through rain-streaked window of city skyline at dusk. Golden hour light fading to deep blue. Camera slowly pushes through window to reveal trader alone at desk, illuminated only by monitor glow. Face shows uncertainty and doubt. Phone on desk displays a notification — 'BUY Signal from @TradingGuru'. Trader looks at phone, then at charts, uncertain. Shadow reflections dance across face. Atmospheric, slightly melancholic piano music begins softly.",
+                        "voiceover": "It's late. You're alone with your charts. That signal you followed... you're not sure why you took it. You trust the source, but you don't trust yourself.",
+                        "text_overlay": "Why did I take that trade?",
+                        "emotion": "Uncertainty",
+                        "purpose": "Cinematic hook — relatable solo trading isolation"
+                    },
+                    {
+                        "scene_number": 2,
+                        "duration_seconds": 5,
+                        "visual": "Close-up of trader's hands on desk, fingers tapping nervously. Cut to face looking upward, searching. Monitor reflects multiple windows: TradingView charts, Telegram groups, news sites, YouTube tutorials. Each reflection creates ghostly overlay on trader's face. Cut to shadow of trader alone, stretched long across the wall. The weight of trading solo, without understanding, is palpable. Music deepens with subtle tension.",
+                        "voiceover": "You're following strategies. You're watching the news. You're in Telegram groups. But something's still missing.",
+                        "text_overlay": "Something's still missing",
+                        "emotion": "Frustration",
+                        "purpose": "Deepen the pain — identify the gap"
+                    },
+                    {
+                        "scene_number": 3,
+                        "duration_seconds": 4,
+                        "visual": "Black screen. Bold white text fades in, centered. Camera is completely still — the silence is powerful. Music pauses. After a beat, text glows slightly. The question hangs in the air. Simple, dramatic typography. Plenty of negative space. The moment is introspective.",
+                        "voiceover": "What are you missing?",
+                        "text_overlay": "What are you missing?",
+                        "emotion": "Curiosity",
+                        "purpose": "Rhetorical pivot — create moment of reflection"
+                    },
+                    {
+                        "scene_number": 4,
+                        "duration_seconds": 7,
+                        "visual": "SLOW-MOTION TRANSITION. Dark scene begins brightening from center — warm golden light spreading outward. CrowdWisdomTrading dashboard reveals itself in layers: First layer: Market sentiment gauge with collective trader positioning. Second layer: Key support and resistance levels appearing like topographic lines. Third layer: Community consensus views floating into organized sections. Each layer appears like puzzle pieces clicking into place. Dramatic orchestral music swells. Camera slowly dollies toward the screen.",
+                        "voiceover": "CrowdWisdomTrading doesn't give you a tip. It gives you perspective. Structured collective insights that reveal the full picture.",
+                        "text_overlay": "Perspective • Not tips",
+                        "emotion": "Revelation",
+                        "purpose": "Solution reveal — the 'aha' moment"
+                    },
+                    {
+                        "scene_number": 5,
+                        "duration_seconds": 6,
+                        "visual": "Medium shot of trader focusing on CrowdWisdomTrading dashboard. Camera slowly moves closer. Close-up of eyes as understanding dawns — pupils dilate slightly, eyebrows lift. Trader's face shifts from doubt to recognition. A subtle nod of realization. Eyes follow a key support level line, then look at corresponding sentiment, then back at chart. The connections are forming. Music becomes hopeful and uplifting. Soft golden light now illuminates the scene.",
+                        "voiceover": "Now you understand WHY a trade makes sense. You stop following blindly and start thinking independently. That's the difference between copying and truly knowing.",
+                        "text_overlay": "Understanding • Not following",
+                        "emotion": "Empowerment",
+                        "purpose": "Transformation — show the shift from confusion to clarity"
+                    },
+                    {
+                        "scene_number": 6,
+                        "duration_seconds": 5,
+                        "visual": "Trader stands slowly, camera tracking with slight lag. Walks toward window with calm, confident posture. Pushes curtain aside — DAWN is breaking. Golden sunrise floods the scene, washing away the darkness. Sky transforms from deep blue to warm orange and pink. Trader's silhouette is now backlit by hope and new beginning. Face turns to window, peaceful expression. Music reaches gentle crescendo — triumphant but understated. The symbolism is clear: new understanding, new day.",
+                        "voiceover": "You're not a bad trader. You just didn't have the full picture. Now you do.",
+                        "text_overlay": "You're not a bad trader.",
+                        "emotion": "Inspiration",
+                        "purpose": "Emotional climax — empowerment and vindication"
+                    },
+                    {
+                        "scene_number": 7,
+                        "duration_seconds": 4,
+                        "visual": "Clean, cinematic end screen. Gradient background transitioning from deep blue (night) to warm gold (dawn) — representing the journey. CrowdWisdomTrading logo with subtle light rays. Aspirational, empowering typography. Design feels premium and inspiring. Enough negative space to breathe. The visual journey completes here.",
+                        "voiceover": "See what you've been missing. Sign up free and gain the perspective you've been searching for.",
+                        "text_overlay": "See what you've been missing — sign up free\nwww.crowdwisdomtrading.com",
+                        "emotion": "Anticipation",
+                        "purpose": "Direct CTA with empowerment"
+                    }
+                ]
+            }
+        ]
+    }
+}
