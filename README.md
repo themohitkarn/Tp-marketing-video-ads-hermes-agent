@@ -96,16 +96,17 @@ This displays all 10 agent tasks transitioning across `[BACKLOG]`, `[IN PROGRESS
 
 ---
 
-## 🎬 Creative Video Ad Structure (47 Seconds)
+## 🎬 Cinematic Movie-Style Video Ad Structure (48 Seconds)
 
-Adhering strictly to the requirement **"Dont make text ads. this is not the assessment"**, the video combines:
-1. **0.0s – 5.0s**: Animated volatile market price action (`line_chart`) with dynamic draw animation.
-2. **5.0s – 10.0s**: Notification chaos & 15+ tabs overload warning box (`callout`).
-3. **10.0s – 16.5s**: Direct side-by-side contrast: Fragmented Noise vs. CrowdWisdom Hub (`comparison`).
-4. **16.5s – 22.5s**: Multi-source data convergence card (`stat_card`).
-5. **22.5s – 29.0s**: Real-time collective sentiment consensus breakdown (`pie_chart` donut).
-6. **29.0s – 35.5s**: Live dashboard transformation with cascade animation (`kpi_grid`).
-7. **35.5s – 40.5s**: Noise filtration progress bar (`progress_bar`).
-8. **40.5s – 47.0s**: High-converting closing hook and CTA (`hero_title`).
+Adhering strictly to CEO Gilad's feedback (*"why the videos are not movie videos? why remotion style?"*), the pipeline combines the cinematic camera prompts from `VideoAgent` with real high-definition video footage composited seamlessly via OpenMontage:
 
-*Note: All data metrics are explicitly framed as illustrative/sample platform visualizations in full compliance with CrowdWisdomTrading claim policies.*
+1. **0.0s – 6.0s (The Hook)**: Real cinematic footage of a trader at night surrounded by glowing multi-monitor workstations scanning live candlestick charts (`scene_1_hook_trader.mp4`) with dynamic title overlay: *"VOLATILE MARKETS: Are you catching the moves — or getting caught in the noise?"*.
+2. **6.0s – 12.0s (Information Overload)**: Real footage of a trader frantically tracking trade graphs and endless alerts on a smartphone (`scene_2_phone_overload.mp4`) with *"15 TABS. 50 TELEGRAM ALERTS: Endless notifications, zero high-conviction clarity"*.
+3. **12.0s – 18.0s (Market Chaos)**: Real footage of a broker analyzing volatile candlestick movements in the dark (`scene_3_candlestick_volatility.mp4`) with *"CANDLESTICK NOISE: Solo guesswork entering late and burning capital"*.
+4. **18.0s – 24.5s (Data Convergence)**: Ultra high-definition 3D cybernetic data particle streams converging into unified algorithmic currents (`tech_data_flow.mp4`) with *"COLLECTIVE INTELLIGENCE: 50,000+ trader perspectives unified into real-time consensus"*.
+5. **24.5s – 31.0s (The Intelligence Hub)**: Macro institutional financial ticker screen with real-time order flow (`scene_4_financial_screen.mp4`) with *"1 UNIFIED HUB: Sentiment bias, key levels & aggregated signals in one place"*.
+6. **31.0s – 37.0s (Structured Confidence)**: Real footage of a relaxed, confident trader executing trades calmly and decisively (`scene_5_confident_trader.mp4`) with *"STRUCTURED CONFIDENCE: From anxiety and hesitation to decisive execution"*.
+7. **37.0s – 42.0s (Wall Street Authority)**: Grand architectural establishing shot of the New York Stock Exchange facade (`scene_6_wall_street_nyse.mp4`) with *"WALL STREET EDGE: Institutional-grade perspective in retail hands"*.
+8. **42.0s – 48.0s (Brand Resolution & CTA)**: High-converting CrowdWisdomTrading hero brand resolution (`hero_title`) with *"Stop Guessing. Start Knowing. Explore Free at crowdwisdomtrading.com"*.
+
+*Note: All data metrics and overlays are illustrative and educational in full compliance with CrowdWisdomTrading claim guidelines (no guaranteed profit claims, no unregistered advisory claims).*

@@ -2,222 +2,91 @@
   "theme": "flat-motion-graphics",
   "cuts": [
     {
-      "id": "cwt-chart-volatility",
-      "source": "",
-      "type": "line_chart",
-      "in_seconds": 0,
-      "out_seconds": 5.0,
-      "title": "Volatile Markets: Catching The Right Moves (Illustrative)",
-      "chartSeries": [
-        {
-          "label": "Market Volatility Index",
-          "color": "#EF4444",
-          "data": [
-            {
-              "x": 1,
-              "y": 110
-            },
-            {
-              "x": 2,
-              "y": 75
-            },
-            {
-              "x": 3,
-              "y": 145
-            },
-            {
-              "x": 4,
-              "y": 60
-            },
-            {
-              "x": 5,
-              "y": 160
-            },
-            {
-              "x": 6,
-              "y": 95
-            },
-            {
-              "x": 7,
-              "y": 185
-            }
-          ]
-        },
-        {
-          "label": "Trader Hesitation",
-          "color": "#F59E0B",
-          "data": [
-            {
-              "x": 1,
-              "y": 50
-            },
-            {
-              "x": 2,
-              "y": 90
-            },
-            {
-              "x": 3,
-              "y": 70
-            },
-            {
-              "x": 4,
-              "y": 130
-            },
-            {
-              "x": 5,
-              "y": 80
-            },
-            {
-              "x": 6,
-              "y": 150
-            },
-            {
-              "x": 7,
-              "y": 110
-            }
-          ]
-        }
-      ],
-      "chartColors": [
-        "#EF4444",
-        "#F59E0B"
-      ],
-      "chartAnimation": "draw",
-      "showGrid": true,
-      "showMarkers": true,
-      "showLegend": true,
-      "xLabel": "Trading Sessions",
-      "yLabel": "Price Action Index",
-      "backgroundColor": "#0A0F1D",
-      "textColor": "#F8FAFC"
-    },
-    {
-      "id": "cwt-notification-chaos",
-      "source": "",
-      "type": "callout",
-      "in_seconds": 5.0,
-      "out_seconds": 10.0,
-      "title": "15 Tabs Open. 50 Telegram Alerts. Zero Clarity.",
-      "text": "Watching RSI, MACD, economic calendars, and endless discord rooms... yet still entering late and burning capital.",
-      "callout_type": "warning",
-      "accentColor": "#EF4444",
-      "backgroundColor": "#0A0F1D",
-      "color": "#F8FAFC"
-    },
-    {
-      "id": "cwt-contrast-compare",
-      "source": "",
-      "type": "comparison",
-      "in_seconds": 10.0,
-      "out_seconds": 16.5,
-      "title": "Solo Guesswork vs. Collective Intelligence",
-      "leftLabel": "Fragmented Noise",
-      "leftValue": "15+ Tabs & Gurus",
-      "rightLabel": "CrowdWisdom",
-      "rightValue": "1 Unified Hub",
-      "accentColor": "#38BDF8",
-      "backgroundColor": "#0A0F1D",
-      "color": "#F8FAFC"
-    },
-    {
-      "id": "cwt-data-convergence",
-      "source": "",
-      "type": "stat_card",
-      "in_seconds": 16.5,
-      "out_seconds": 22.5,
-      "stat": "Multi-Source",
-      "subtitle": "Trader perspectives converged into structured consensus signals",
-      "accentColor": "#10B981",
+      "id": "movie-scene-1-hook",
+      "source": "footage/scene_1_hook_trader.mp4",
+      "source_in_seconds": 1.0,
+      "in_seconds": 0.0,
+      "out_seconds": 6.0,
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "transition_duration": 0.5,
       "backgroundColor": "#0A0F1D"
     },
     {
-      "id": "cwt-consensus-breakdown",
-      "source": "",
-      "type": "pie_chart",
-      "in_seconds": 22.5,
-      "out_seconds": 29.0,
-      "title": "Illustrative Market Consensus Distribution",
-      "chartData": [
-        {
-          "label": "Bullish Bias",
-          "value": 64
-        },
-        {
-          "label": "Neutral / Range",
-          "value": 22
-        },
-        {
-          "label": "Bearish / Hedge",
-          "value": 14
-        }
-      ],
-      "chartColors": [
-        "#10B981",
-        "#38BDF8",
-        "#F59E0B"
-      ],
-      "donut": true,
-      "centerLabel": "Consensus",
-      "centerValue": "Sample",
-      "showLegend": true,
+      "id": "movie-scene-2-overload",
+      "source": "footage/scene_2_phone_overload.mp4",
+      "source_in_seconds": 0.5,
+      "in_seconds": 6.0,
+      "out_seconds": 12.0,
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "transition_duration": 0.5,
       "backgroundColor": "#0A0F1D"
     },
     {
-      "id": "cwt-dashboard-kpi",
-      "source": "",
-      "type": "kpi_grid",
-      "in_seconds": 29.0,
-      "out_seconds": 35.5,
-      "title": "Platform Impact (Illustrative Metrics)",
-      "chartData": [
-        {
-          "label": "Decision Clarity",
-          "value": 85,
-          "change": 35,
-          "suffix": "%"
-        },
-        {
-          "label": "Estimated Time Saved",
-          "value": 15,
-          "change": -60,
-          "suffix": " h/wk"
-        },
-        {
-          "label": "Noise Reduction",
-          "value": 88,
-          "change": 50,
-          "suffix": "%"
-        }
-      ],
-      "columns": 3,
-      "chartColors": [
-        "#38BDF8",
-        "#10B981",
-        "#F59E0B"
-      ],
-      "chartAnimation": "cascade",
+      "id": "movie-scene-3-volatility",
+      "source": "footage/scene_3_candlestick_volatility.mp4",
+      "source_in_seconds": 1.0,
+      "in_seconds": 12.0,
+      "out_seconds": 18.0,
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "transition_duration": 0.5,
       "backgroundColor": "#0A0F1D"
     },
     {
-      "id": "cwt-noise-progress",
-      "source": "",
-      "type": "progress_bar",
-      "in_seconds": 35.5,
-      "out_seconds": 40.5,
-      "title": "Market Noise Filtration Engine",
-      "progress": 0.88,
-      "progressLabel": "Filtering conflicting market noise into clear perspectives",
-      "progressColor": "#10B981",
+      "id": "movie-scene-4-convergence",
+      "source": "footage/tech_data_flow.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 18.0,
+      "out_seconds": 24.5,
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "transition_duration": 0.5,
       "backgroundColor": "#0A0F1D"
     },
     {
-      "id": "cwt-final-cta",
+      "id": "movie-scene-5-dashboard",
+      "source": "footage/scene_4_financial_screen.mp4",
+      "source_in_seconds": 1.0,
+      "in_seconds": 24.5,
+      "out_seconds": 31.0,
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "transition_duration": 0.5,
+      "backgroundColor": "#0A0F1D"
+    },
+    {
+      "id": "movie-scene-6-confident",
+      "source": "footage/scene_5_confident_trader.mp4",
+      "source_in_seconds": 0.5,
+      "in_seconds": 31.0,
+      "out_seconds": 37.0,
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "transition_duration": 0.5,
+      "backgroundColor": "#0A0F1D"
+    },
+    {
+      "id": "movie-scene-7-wallstreet",
+      "source": "footage/scene_6_wall_street_nyse.mp4",
+      "source_in_seconds": 0.5,
+      "in_seconds": 37.0,
+      "out_seconds": 42.0,
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "transition_duration": 0.5,
+      "backgroundColor": "#0A0F1D"
+    },
+    {
+      "id": "movie-scene-8-cta",
       "source": "",
       "type": "hero_title",
-      "in_seconds": 40.5,
+      "in_seconds": 42.0,
       "out_seconds": 47.0,
-      "text": "Trade Smarter With Crowd Wisdom",
+      "text": "CrowdWisdomTrading",
       "subtitle": "Stop Guessing. Start Knowing. Explore Free at crowdwisdomtrading.com",
+      "accentColor": "#38BDF8",
       "backgroundColor": "#0A0F1D"
     }
   ],
@@ -225,35 +94,64 @@
     {
       "type": "section_title",
       "in_seconds": 0.5,
-      "out_seconds": 3.8,
-      "text": "Market Chaos",
-      "subtitle": "Volatility moving faster than manual analysis",
-      "accentColor": "#EF4444"
+      "out_seconds": 5.5,
+      "text": "VOLATILE MARKETS",
+      "subtitle": "Are you catching the moves — or getting caught in the noise?",
+      "accentColor": "#EF4444",
+      "position": "top-left"
+    },
+    {
+      "type": "section_title",
+      "in_seconds": 6.5,
+      "out_seconds": 11.5,
+      "text": "15 TABS. 50 TELEGRAM ALERTS.",
+      "subtitle": "Endless notifications, zero high-conviction clarity",
+      "accentColor": "#F59E0B",
+      "position": "top-left"
     },
     {
       "type": "stat_reveal",
-      "in_seconds": 5.5,
-      "out_seconds": 9.2,
-      "text": "15+ Tabs",
-      "subtitle": "Analysis Paralysis Overload",
+      "in_seconds": 12.5,
+      "out_seconds": 17.5,
+      "text": "CANDLESTICK NOISE",
+      "subtitle": "Solo guesswork entering late and burning capital",
       "accentColor": "#EF4444",
       "position": "bottom-right"
     },
     {
       "type": "section_title",
-      "in_seconds": 10.5,
-      "out_seconds": 14.5,
-      "text": "Clarity",
-      "subtitle": "Stop guessing. Start knowing.",
-      "accentColor": "#38BDF8"
+      "in_seconds": 18.5,
+      "out_seconds": 24.0,
+      "text": "COLLECTIVE INTELLIGENCE",
+      "subtitle": "50,000+ trader perspectives unified into real-time consensus",
+      "accentColor": "#38BDF8",
+      "position": "top-left"
     },
     {
       "type": "stat_reveal",
-      "in_seconds": 17.0,
-      "out_seconds": 21.0,
-      "text": "Consensus",
-      "subtitle": "The Collective Trading Edge",
+      "in_seconds": 25.0,
+      "out_seconds": 30.5,
+      "text": "1 UNIFIED HUB",
+      "subtitle": "Sentiment bias, key levels & aggregated signals in one place",
       "accentColor": "#10B981",
+      "position": "bottom-right"
+    },
+    {
+      "type": "section_title",
+      "in_seconds": 31.5,
+      "out_seconds": 36.5,
+      "text": "STRUCTURED CONFIDENCE",
+      "subtitle": "From anxiety and hesitation to decisive execution",
+      "accentColor": "#10B981",
+      "position": "top-left"
+    },
+    {
+      "type": "stat_reveal",
+      "in_seconds": 37.5,
+      "out_seconds": 41.5,
+      "text": "WALL STREET EDGE",
+      "subtitle": "Institutional-grade perspective in retail hands",
+      "accentColor": "#38BDF8",
       "position": "bottom-right"
     }
   ],

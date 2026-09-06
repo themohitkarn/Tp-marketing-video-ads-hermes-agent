@@ -14,217 +14,234 @@ def get_latest_file(pattern):
     return max(files, key=lambda file: file.stat().st_mtime)
 
 
-def build_creative_trading_ad_props():
+def build_cinematic_movie_ad_props():
     """
-    Constructs a creative, high-converting AI marketing video ad for CrowdWisdomTrading
-    specifically fulfilling the assessment's 'WOW!' creative storytelling requirements:
-    1. Animated market charts (volatile price action)
-    2. Notification chaos (15+ tabs, RSI/MACD alerts, chat noise)
-    3. Direct visual comparison (fragmented guesswork vs. unified hub)
-    4. Data convergence (50,000+ trader perspectives unified into high-conviction signals)
-    5. Collective sentiment consensus breakdown (animated donut chart)
-    6. Dashboard transformation (real-time KPI grid cascade)
-    7. Noise reduction progress bar
-    8. High-converting brand closing CTA
-    Total duration: 47 seconds (compliant with the 30-60s requirement).
+    Constructs a true cinematic, movie-style video advertisement for CrowdWisdomTrading
+    using actual visual video footage (real B-roll/cinematic footage) matching the
+    pipeline's storyboard and video-agent prompts:
+
+    Scene 1 (0.0 - 6.0s):
+      Visual: Weary trader at workstation analyzing multi-screen scrolling charts at night.
+      Narrative Hook: "VOLATILE MARKETS: Are you catching moves or caught in noise?"
+      Footage: footage/scene_1_hook_trader.mp4
+
+    Scene 2 (6.0 - 12.0s):
+      Visual: Frantic smartphone checking, crypto/stock graph tracking, alert notification overload.
+      Pain Point: "15 TABS. 50 TELEGRAM ALERTS. Endless noise, zero high-conviction clarity."
+      Footage: footage/scene_2_phone_overload.mp4
+
+    Scene 3 (12.0 - 18.0s):
+      Visual: Broker analyzing rapid candlestick volatility and erratic price swings.
+      Contrast: "CANDLESTICK NOISE: Solo guesswork entering late and burning capital."
+      Footage: footage/scene_3_candlestick_volatility.mp4
+
+    Scene 4 (18.0 - 24.5s):
+      Visual: Ultra high-tech 3D data particle flow converging into unified algorithmic streams.
+      Mechanism: "DATA CONVERGENCE: 50,000+ trader perspectives unified into real-time consensus."
+      Footage: footage/tech_data_flow.mp4
+
+    Scene 5 (24.5 - 31.0s):
+      Visual: Sleek institutional financial intelligence screen with real-time indicators.
+      Solution: "1 UNIFIED HUB: Sentiment bias, key levels & aggregated signals in one place."
+      Footage: footage/scene_4_financial_screen.mp4
+
+    Scene 6 (31.0 - 37.0s):
+      Visual: Confident trader analyzing calmly with focused execution and relaxed posture.
+      Transformation: "STRUCTURED CONFIDENCE: From anxiety and hesitation to decisive execution."
+      Footage: footage/scene_5_confident_trader.mp4
+
+    Scene 7 (37.0 - 42.0s):
+      Visual: Grand establishing view of Wall Street / New York Stock Exchange.
+      Authority: "WALL STREET EDGE: Institutional-grade perspective in retail hands."
+      Footage: footage/scene_6_wall_street_nyse.mp4
+
+    Scene 8 (42.0 - 47.0s):
+      Visual: Cinematic brand hero card with CrowdWisdomTrading call to action.
+      Closing: "CrowdWisdomTrading — Stop Guessing. Start Knowing. Explore Free."
+
+    Total duration: 47 seconds (compliant with 30-60s assessment requirement).
     """
     cuts = [
-        # Cut 1: Animated Market Charts - Volatility & Sudden Moves (0 - 5.0s)
+        # Scene 1: Cinematic Hook - Trader at Multi-Screen Desk (0.0 - 6.0s)
         {
-            "id": "cwt-chart-volatility",
-            "source": "",
-            "type": "line_chart",
-            "in_seconds": 0,
-            "out_seconds": 5.0,
-            "title": "Volatile Markets: Catching The Right Moves (Illustrative)",
-            "chartSeries": [
-                {
-                    "label": "Market Volatility Index",
-                    "color": "#EF4444",
-                    "data": [
-                        {"x": 1, "y": 110},
-                        {"x": 2, "y": 75},
-                        {"x": 3, "y": 145},
-                        {"x": 4, "y": 60},
-                        {"x": 5, "y": 160},
-                        {"x": 6, "y": 95},
-                        {"x": 7, "y": 185}
-                    ]
-                },
-                {
-                    "label": "Trader Hesitation",
-                    "color": "#F59E0B",
-                    "data": [
-                        {"x": 1, "y": 50},
-                        {"x": 2, "y": 90},
-                        {"x": 3, "y": 70},
-                        {"x": 4, "y": 130},
-                        {"x": 5, "y": 80},
-                        {"x": 6, "y": 150},
-                        {"x": 7, "y": 110}
-                    ]
-                }
-            ],
-            "chartColors": ["#EF4444", "#F59E0B"],
-            "chartAnimation": "draw",
-            "showGrid": True,
-            "showMarkers": True,
-            "showLegend": True,
-            "xLabel": "Trading Sessions",
-            "yLabel": "Price Action Index",
-            "backgroundColor": "#0A0F1D",
-            "textColor": "#F8FAFC"
-        },
-
-        # Cut 2: Notification Chaos & 15+ Tabs Open (5.0 - 10.0s)
-        {
-            "id": "cwt-notification-chaos",
-            "source": "",
-            "type": "callout",
-            "in_seconds": 5.0,
-            "out_seconds": 10.0,
-            "title": "15 Tabs Open. 50 Telegram Alerts. Zero Clarity.",
-            "text": "Watching RSI, MACD, economic calendars, and endless discord rooms... yet still entering late and burning capital.",
-            "callout_type": "warning",
-            "accentColor": "#EF4444",
-            "backgroundColor": "#0A0F1D",
-            "color": "#F8FAFC"
-        },
-
-        # Cut 3: Comparison - Fragmented Noise vs. Unified Hub (10.0 - 16.5s)
-        {
-            "id": "cwt-contrast-compare",
-            "source": "",
-            "type": "comparison",
-            "in_seconds": 10.0,
-            "out_seconds": 16.5,
-            "title": "Solo Guesswork vs. Collective Intelligence",
-            "leftLabel": "Fragmented Noise",
-            "leftValue": "15+ Tabs & Gurus",
-            "rightLabel": "CrowdWisdom",
-            "rightValue": "1 Unified Hub",
-            "accentColor": "#38BDF8",
-            "backgroundColor": "#0A0F1D",
-            "color": "#F8FAFC"
-        },
-
-        # Cut 4: Data Convergence - Perspective Hub (16.5 - 22.5s)
-        {
-            "id": "cwt-data-convergence",
-            "source": "",
-            "type": "stat_card",
-            "in_seconds": 16.5,
-            "out_seconds": 22.5,
-            "stat": "Multi-Source",
-            "subtitle": "Trader perspectives converged into structured consensus signals",
-            "accentColor": "#10B981",
+            "id": "movie-scene-1-hook",
+            "source": "footage/scene_1_hook_trader.mp4",
+            "source_in_seconds": 1.0,
+            "in_seconds": 0.0,
+            "out_seconds": 6.0,
+            "transition_in": "fade",
+            "transition_out": "fade",
+            "transition_duration": 0.5,
             "backgroundColor": "#0A0F1D"
         },
 
-        # Cut 5: Collective Market Sentiment Donut Chart (22.5 - 29.0s)
+        # Scene 2: Information Overload - Phone Alerts & Volatile Graphs (6.0 - 12.0s)
         {
-            "id": "cwt-consensus-breakdown",
-            "source": "",
-            "type": "pie_chart",
-            "in_seconds": 22.5,
-            "out_seconds": 29.0,
-            "title": "Illustrative Market Consensus Distribution",
-            "chartData": [
-                {"label": "Bullish Bias", "value": 64},
-                {"label": "Neutral / Range", "value": 22},
-                {"label": "Bearish / Hedge", "value": 14}
-            ],
-            "chartColors": ["#10B981", "#38BDF8", "#F59E0B"],
-            "donut": True,
-            "centerLabel": "Consensus",
-            "centerValue": "Sample",
-            "showLegend": True,
+            "id": "movie-scene-2-overload",
+            "source": "footage/scene_2_phone_overload.mp4",
+            "source_in_seconds": 0.5,
+            "in_seconds": 6.0,
+            "out_seconds": 12.0,
+            "transition_in": "fade",
+            "transition_out": "fade",
+            "transition_duration": 0.5,
             "backgroundColor": "#0A0F1D"
         },
 
-        # Cut 6: Dashboard Transformation - Live KPI Grid (29.0 - 35.5s)
+        # Scene 3: Candlestick Volatility & Market Chaos (12.0 - 18.0s)
         {
-            "id": "cwt-dashboard-kpi",
-            "source": "",
-            "type": "kpi_grid",
-            "in_seconds": 29.0,
-            "out_seconds": 35.5,
-            "title": "Platform Impact (Illustrative Metrics)",
-            "chartData": [
-                {"label": "Decision Clarity", "value": 85, "change": 35, "suffix": "%"},
-                {"label": "Estimated Time Saved", "value": 15, "change": -60, "suffix": " h/wk"},
-                {"label": "Noise Reduction", "value": 88, "change": 50, "suffix": "%"}
-            ],
-            "columns": 3,
-            "chartColors": ["#38BDF8", "#10B981", "#F59E0B"],
-            "chartAnimation": "cascade",
+            "id": "movie-scene-3-volatility",
+            "source": "footage/scene_3_candlestick_volatility.mp4",
+            "source_in_seconds": 1.0,
+            "in_seconds": 12.0,
+            "out_seconds": 18.0,
+            "transition_in": "fade",
+            "transition_out": "fade",
+            "transition_duration": 0.5,
             "backgroundColor": "#0A0F1D"
         },
 
-        # Cut 7: Noise Filtration Progress (35.5 - 40.5s)
+        # Scene 4: Data Convergence & Algorithmic Streams (18.0 - 24.5s)
         {
-            "id": "cwt-noise-progress",
-            "source": "",
-            "type": "progress_bar",
-            "in_seconds": 35.5,
-            "out_seconds": 40.5,
-            "title": "Market Noise Filtration Engine",
-            "progress": 0.88,
-            "progressLabel": "Filtering conflicting market noise into clear perspectives",
-            "progressColor": "#10B981",
+            "id": "movie-scene-4-convergence",
+            "source": "footage/tech_data_flow.mp4",
+            "source_in_seconds": 0.0,
+            "in_seconds": 18.0,
+            "out_seconds": 24.5,
+            "transition_in": "fade",
+            "transition_out": "fade",
+            "transition_duration": 0.5,
             "backgroundColor": "#0A0F1D"
         },
 
-        # Cut 8: High-Impact Closing CTA (40.5 - 47.0s)
+        # Scene 5: Institutional Financial Dashboard (24.5 - 31.0s)
         {
-            "id": "cwt-final-cta",
+            "id": "movie-scene-5-dashboard",
+            "source": "footage/scene_4_financial_screen.mp4",
+            "source_in_seconds": 1.0,
+            "in_seconds": 24.5,
+            "out_seconds": 31.0,
+            "transition_in": "fade",
+            "transition_out": "fade",
+            "transition_duration": 0.5,
+            "backgroundColor": "#0A0F1D"
+        },
+
+        # Scene 6: Confident Trader Transformation (31.0 - 37.0s)
+        {
+            "id": "movie-scene-6-confident",
+            "source": "footage/scene_5_confident_trader.mp4",
+            "source_in_seconds": 0.5,
+            "in_seconds": 31.0,
+            "out_seconds": 37.0,
+            "transition_in": "fade",
+            "transition_out": "fade",
+            "transition_duration": 0.5,
+            "backgroundColor": "#0A0F1D"
+        },
+
+        # Scene 7: Wall Street / New York Stock Exchange (37.0 - 42.0s)
+        {
+            "id": "movie-scene-7-wallstreet",
+            "source": "footage/scene_6_wall_street_nyse.mp4",
+            "source_in_seconds": 0.5,
+            "in_seconds": 37.0,
+            "out_seconds": 42.0,
+            "transition_in": "fade",
+            "transition_out": "fade",
+            "transition_duration": 0.5,
+            "backgroundColor": "#0A0F1D"
+        },
+
+        # Scene 8: Cinematic Brand Closing & Call to Action (42.0 - 47.0s)
+        {
+            "id": "movie-scene-8-cta",
             "source": "",
             "type": "hero_title",
-            "in_seconds": 40.5,
+            "in_seconds": 42.0,
             "out_seconds": 47.0,
-            "text": "Trade Smarter With Crowd Wisdom",
+            "text": "CrowdWisdomTrading",
             "subtitle": "Stop Guessing. Start Knowing. Explore Free at crowdwisdomtrading.com",
+            "accentColor": "#38BDF8",
             "backgroundColor": "#0A0F1D"
         }
     ]
 
     overlays = [
-        # Overlay 1: Hook Intro
+        # Overlay 1: Hook Title on Scene 1
         {
             "type": "section_title",
             "in_seconds": 0.5,
-            "out_seconds": 3.8,
-            "text": "Market Chaos",
-            "subtitle": "Volatility moving faster than manual analysis",
-            "accentColor": "#EF4444"
+            "out_seconds": 5.5,
+            "text": "VOLATILE MARKETS",
+            "subtitle": "Are you catching the moves — or getting caught in the noise?",
+            "accentColor": "#EF4444",
+            "position": "top-left"
         },
-        # Overlay 2: Analysis Paralysis Stat
+
+        # Overlay 2: Notification Overload on Scene 2
+        {
+            "type": "section_title",
+            "in_seconds": 6.5,
+            "out_seconds": 11.5,
+            "text": "15 TABS. 50 TELEGRAM ALERTS.",
+            "subtitle": "Endless notifications, zero high-conviction clarity",
+            "accentColor": "#F59E0B",
+            "position": "top-left"
+        },
+
+        # Overlay 3: Candlestick Noise Stat on Scene 3
         {
             "type": "stat_reveal",
-            "in_seconds": 5.5,
-            "out_seconds": 9.2,
-            "text": "15+ Tabs",
-            "subtitle": "Analysis Paralysis Overload",
+            "in_seconds": 12.5,
+            "out_seconds": 17.5,
+            "text": "CANDLESTICK NOISE",
+            "subtitle": "Solo guesswork entering late and burning capital",
             "accentColor": "#EF4444",
             "position": "bottom-right"
         },
-        # Overlay 3: Clarity Transformation
+
+        # Overlay 4: Collective Intelligence on Scene 4
         {
             "type": "section_title",
-            "in_seconds": 10.5,
-            "out_seconds": 14.5,
-            "text": "Clarity",
-            "subtitle": "Stop guessing. Start knowing.",
-            "accentColor": "#38BDF8"
+            "in_seconds": 18.5,
+            "out_seconds": 24.0,
+            "text": "COLLECTIVE INTELLIGENCE",
+            "subtitle": "50,000+ trader perspectives unified into real-time consensus",
+            "accentColor": "#38BDF8",
+            "position": "top-left"
         },
-        # Overlay 4: Signal Convergence Stat
+
+        # Overlay 5: Unified Hub Stat on Scene 5
         {
             "type": "stat_reveal",
-            "in_seconds": 17.0,
-            "out_seconds": 21.0,
-            "text": "Consensus",
-            "subtitle": "The Collective Trading Edge",
+            "in_seconds": 25.0,
+            "out_seconds": 30.5,
+            "text": "1 UNIFIED HUB",
+            "subtitle": "Sentiment bias, key levels & aggregated signals in one place",
             "accentColor": "#10B981",
+            "position": "bottom-right"
+        },
+
+        # Overlay 6: Structured Confidence on Scene 6
+        {
+            "type": "section_title",
+            "in_seconds": 31.5,
+            "out_seconds": 36.5,
+            "text": "STRUCTURED CONFIDENCE",
+            "subtitle": "From anxiety and hesitation to decisive execution",
+            "accentColor": "#10B981",
+            "position": "top-left"
+        },
+
+        # Overlay 7: Wall Street Edge Stat on Scene 7
+        {
+            "type": "stat_reveal",
+            "in_seconds": 37.5,
+            "out_seconds": 41.5,
+            "text": "WALL STREET EDGE",
+            "subtitle": "Institutional-grade perspective in retail hands",
+            "accentColor": "#38BDF8",
             "position": "bottom-right"
         }
     ]
@@ -239,23 +256,24 @@ def build_creative_trading_ad_props():
 
 
 def main():
-    print("\nGenerating Creative AI Marketing Video Ad Props for OpenMontage...\n")
+    print("\n========================================================")
+    print("Generating Cinematic Movie-Style Video Ad Props...")
+    print("========================================================\n")
 
     video_prompt_file = get_latest_file("video_prompts_*.json")
-    print(f"Referencing latest video prompts: {video_prompt_file.name}\n")
+    print(f"Referencing latest cinematic video prompts: {video_prompt_file.name}")
 
-    props_data = build_creative_trading_ad_props()
+    props_data = build_cinematic_movie_ad_props()
 
     output_file = OUTPUT_DIR / "crowdwisdom_openmontage_props.json"
 
     with open(output_file, "w", encoding="utf-8") as file:
         json.dump(props_data, file, indent=2, ensure_ascii=False)
 
-    print("Creative OpenMontage Props generated successfully!")
-    print(f"Total scenes / cuts: {len(props_data['cuts'])}")
-    print(f"Total overlays: {len(props_data['overlays'])}")
-    print("Total video duration: 47 seconds (compliant with 30-60s assessment requirement)")
-    print(f"Saved to: {output_file}\n")
+    print(f"Generated {len(props_data['cuts'])} cinematic scenes / cuts.")
+    print(f"Generated {len(props_data['overlays'])} narrative title & stat overlays.")
+    print("Total runtime: 47 seconds (cinematic ad pacing, compliant with 30-60s requirement).")
+    print(f"Saved props to: {output_file}\n")
 
     # Copy to OpenMontage demo-props
     destination = (
