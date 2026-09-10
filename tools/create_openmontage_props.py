@@ -160,8 +160,8 @@ def build_cinematic_movie_ad_props():
             "type": "hero_title",
             "in_seconds": 42.0,
             "out_seconds": 47.0,
-            "text": "CrowdWisdomTrading",
-            "subtitle": "Stop Guessing. Start Knowing. Explore Free at crowdwisdomtrading.com",
+            "text": "TradePulse AI",
+            "subtitle": "Stop Guessing. Start Knowing. Explore Free at tradepulse.ai",
             "accentColor": "#38BDF8",
             "backgroundColor": "#0A0F1D"
         }
