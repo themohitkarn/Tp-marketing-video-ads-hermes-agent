@@ -1,8 +1,8 @@
-# CrowdWisdomTrading AI Marketing Video Ads Agent (Hermes Framework)
+# TradePulse AI — Autonomous Marketing Video Ads Agent (Hermes Framework)
 
-Autonomous multi-agent marketing video creation pipeline developed for **CrowdWisdomTrading** as part of the Marketing AI Lead assessment.
+Autonomous multi-agent marketing video creation pipeline powered by the **Hermes Agent Framework**.
 
-The system orchestrates a fleet of specialized AI agents using the **Hermes Agent Framework** pattern, transforming raw Meta ad competitor data and real-time market intelligence into a broadcast-quality, 47-second motion-graphics video advertisement rendered via **OpenMontage (Remotion)**.
+The system orchestrates a fleet of specialized AI agents, transforming raw Meta ad competitor data and real-time market intelligence into a broadcast-quality, 48-second cinematic video advertisement rendered via **OpenMontage (Remotion)**.
 
 ---
 
@@ -107,6 +107,6 @@ Adhering strictly to CEO Gilad's feedback (*"why the videos are not movie videos
 5. **24.5s – 31.0s (The Intelligence Hub)**: Macro institutional financial ticker screen with real-time order flow (`scene_4_financial_screen.mp4`) with *"1 UNIFIED HUB: Sentiment bias, key levels & aggregated signals in one place"*.
 6. **31.0s – 37.0s (Structured Confidence)**: Real footage of a relaxed, confident trader executing trades calmly and decisively (`scene_5_confident_trader.mp4`) with *"STRUCTURED CONFIDENCE: From anxiety and hesitation to decisive execution"*.
 7. **37.0s – 42.0s (Wall Street Authority)**: Grand architectural establishing shot of the New York Stock Exchange facade (`scene_6_wall_street_nyse.mp4`) with *"WALL STREET EDGE: Institutional-grade perspective in retail hands"*.
-8. **42.0s – 48.0s (Brand Resolution & CTA)**: High-converting CrowdWisdomTrading hero brand resolution (`hero_title`) with *"Stop Guessing. Start Knowing. Explore Free at crowdwisdomtrading.com"*.
+8. **42.0s – 48.0s (Brand Resolution & CTA)**: High-converting TradePulse AI hero brand resolution (`hero_title`) with *"Stop Guessing. Start Knowing. Explore Free at tradepulse.ai"*.
 
-*Note: All data metrics and overlays are illustrative and educational in full compliance with CrowdWisdomTrading claim guidelines (no guaranteed profit claims, no unregistered advisory claims).*
+*Note: All data metrics and overlays are illustrative and educational platform concepts.*
