@@ -96,7 +96,6 @@ for CrowdWisdomTrading.
 
         content = response.choices[0].message.content
 
-        # Remove markdown fences if the model adds them
         content = content.strip()
 
         if content.startswith("```json"):

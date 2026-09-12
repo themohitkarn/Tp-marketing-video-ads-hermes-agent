@@ -20,7 +20,6 @@ client = ApifyClient(APIFY_API_TOKEN)
 def fetch_ads():
     print("\nStarting Meta Ads collection...\n")
 
-    # Exact input taken from successful Apify run
     run_input = {
         "adType": "all",
 
@@ -31,7 +30,6 @@ def fetch_ads():
         "enrichment": False,
         "getTranscript": False,
 
-        # We will do AI analysis ourselves using OpenRouter
         "llmAnalysis": False,
 
         "longRunningDays": 30,
@@ -73,7 +71,6 @@ def fetch_ads():
 
     print("Actor run completed!")
 
-    # Apify client may return either a dict or Pydantic model
     dataset_id = (
         run.get("defaultDatasetId")
         if isinstance(run, dict)
@@ -91,7 +88,6 @@ def fetch_ads():
 
     print(f"Total ads collected: {len(ads)}")
 
-    # Create data directory
     os.makedirs("data/raw", exist_ok=True)
 
     filename = (

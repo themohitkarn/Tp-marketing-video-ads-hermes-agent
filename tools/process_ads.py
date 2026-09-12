@@ -3,10 +3,8 @@ from pathlib import Path
 from datetime import datetime
 
 
-# Project root directory
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Input and output directories
 RAW_DIR = BASE_DIR / "data" / "raw"
 OUTPUT_DIR = BASE_DIR / "outputs"
 

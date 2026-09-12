@@ -34,7 +34,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
         narration_file = "narration_cwt.mp3"
 
     cuts = [
-        # Scene 1: Cinematic Hook - Trader at Multi-Screen Desk (0.0 - 6.0s)
         {
             "id": "movie-scene-1-hook",
             "source": "footage/scene_1_hook_trader.mp4",
@@ -47,7 +46,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 2: Information Overload - Phone Alerts & Volatile Graphs (6.0 - 12.0s)
         {
             "id": "movie-scene-2-overload",
             "source": "footage/scene_2_phone_overload.mp4",
@@ -60,7 +58,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 3: Candlestick Volatility & Market Chaos (12.0 - 18.0s)
         {
             "id": "movie-scene-3-volatility",
             "source": "footage/scene_3_candlestick_volatility.mp4",
@@ -73,7 +70,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 4: Data Convergence & Algorithmic Streams (18.0 - 24.5s)
         {
             "id": "movie-scene-4-convergence",
             "source": "footage/tech_data_flow.mp4",
@@ -86,7 +82,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 5: Institutional Financial Dashboard (24.5 - 31.0s)
         {
             "id": "movie-scene-5-dashboard",
             "source": "footage/scene_4_financial_screen.mp4",
@@ -99,7 +94,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 6: Confident Trader Transformation (31.0 - 37.0s)
         {
             "id": "movie-scene-6-confident",
             "source": "footage/scene_5_confident_trader.mp4",
@@ -112,7 +106,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 7: Wall Street / New York Stock Exchange (37.0 - 42.0s)
         {
             "id": "movie-scene-7-wallstreet",
             "source": "footage/scene_6_wall_street_nyse.mp4",
@@ -125,7 +118,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 8: Cinematic Brand Closing & Call to Action (42.0 - 48.0s)
         {
             "id": "movie-scene-8-cta",
             "source": "",
@@ -140,7 +132,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
     ]
 
     overlays = [
-        # Overlay 1: Hook Title on Scene 1
         {
             "type": "section_title",
             "in_seconds": 0.5,
@@ -151,7 +142,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "position": "top-left"
         },
 
-        # Overlay 2: Notification Overload on Scene 2
         {
             "type": "section_title",
             "in_seconds": 6.5,
@@ -162,7 +152,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "position": "top-left"
         },
 
-        # Overlay 3: Candlestick Noise Stat on Scene 3
         {
             "type": "stat_reveal",
             "in_seconds": 12.5,
@@ -173,7 +162,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "position": "bottom-right"
         },
 
-        # Overlay 4: Collective Intelligence on Scene 4
         {
             "type": "section_title",
             "in_seconds": 18.5,
@@ -184,7 +172,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "position": "top-left"
         },
 
-        # Overlay 5: Unified Hub Stat on Scene 5
         {
             "type": "stat_reveal",
             "in_seconds": 25.0,
@@ -195,7 +182,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "position": "bottom-right"
         },
 
-        # Overlay 6: Structured Confidence on Scene 6
         {
             "type": "section_title",
             "in_seconds": 31.5,
@@ -206,7 +192,6 @@ def build_cinematic_movie_ad_props(brand="cwt"):
             "position": "top-left"
         },
 
-        # Overlay 7: Wall Street Edge Stat on Scene 7
         {
             "type": "stat_reveal",
             "in_seconds": 37.5,
@@ -260,7 +245,6 @@ def main():
     with open(output_file, "w", encoding="utf-8") as file:
         json.dump(props_data, file, indent=2, ensure_ascii=False)
 
-    # Always sync active props to crowdwisdom_openmontage_props.json
     shutil.copy(output_file, crowdwisdom_output)
 
     print(f"Generated {len(props_data['cuts'])} cinematic scenes / cuts.")
@@ -269,7 +253,6 @@ def main():
     print("Total runtime: 48 seconds.")
     print(f"Saved props to: {output_file}\n")
 
-    # Copy to OpenMontage demo-props crowdwisdom.json
     destination = (
         OPENMONTAGE_DIR /
         "remotion-composer" /

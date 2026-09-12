@@ -49,7 +49,6 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_file = OUTPUT_DIR / f"storyboards_{timestamp}.json"
 
-    # Enclose in the format expected by VideoAgent (storyboards -> storyboards list)
     output_data = {
         "generated_at": datetime.now().isoformat(),
         "brand": "CrowdWisdomTrading",

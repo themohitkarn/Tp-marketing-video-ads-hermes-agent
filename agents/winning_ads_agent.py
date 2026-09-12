@@ -222,7 +222,6 @@ Do not provide financial advice.
         )
 
 
-        # Remove markdown code fences
 
         if content.startswith(
             "```json"

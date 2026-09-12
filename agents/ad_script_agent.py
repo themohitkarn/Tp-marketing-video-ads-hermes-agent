@@ -94,7 +94,6 @@ Return ONLY valid JSON matching this exact structure:
 
         content = response.choices[0].message.content.strip()
 
-        # Remove markdown code fences if present
         if content.startswith("```json"):
             content = content[len("```json"):]
         elif content.startswith("```"):

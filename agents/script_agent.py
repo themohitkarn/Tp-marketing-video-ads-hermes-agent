@@ -156,7 +156,6 @@ Do not invent facts or statistics.
             .strip()
         )
 
-        # Remove markdown formatting
         if content.startswith("```json"):
             content = content.replace(
                 "```json",

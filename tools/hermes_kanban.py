@@ -21,7 +21,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = BASE_DIR / "outputs"
 RENDER_FILE = Path(r"D:\OpenMontage\projects\demos\renders\crowdwisdom.mp4")
 
-# Force legacy_windows=False to allow rich ANSI styling without cp1252 crash
 console = Console(legacy_windows=False)
 
 
@@ -117,7 +116,6 @@ def render_kanban(step_index=len(TASKS)):
         Layout(name="footer", size=3)
     )
 
-    # Header
     header_text = Text(
         "[+] HERMES AGENT FRAMEWORK -- CROWDWISDOMTRADING MARKETING ADS TEAM [+]\n"
         "Multi-Agent Workflow Orchestration & Kanban Execution Board",
@@ -126,7 +124,6 @@ def render_kanban(step_index=len(TASKS)):
     )
     layout["header"].update(Panel(header_text, border_style="cyan"))
 
-    # Kanban Columns Table
     board = Table(expand=True, box=None, padding=(0, 1))
     board.add_column("[BACKLOG]", style="dim", ratio=1)
     board.add_column("[IN PROGRESS]", style="bold yellow", ratio=1)
@@ -170,7 +167,6 @@ def render_kanban(step_index=len(TASKS)):
 
     layout["kanban"].update(board)
 
-    # Footer
     completed_count = min(step_index, len(TASKS))
     footer_text = Text(
         f"Tasks Completed: {completed_count}/{len(TASKS)} | "
@@ -189,7 +185,6 @@ def main():
         "[bold green]Starting Hermes Marketing Agent Team Kanban Orchestrator...[/bold green]\n"
     )
 
-    # Live playback mode for screen recording
     if "--live" in sys.argv or "-l" in sys.argv:
         with Live(render_kanban(0), refresh_per_second=4, console=console) as live:
             for s in range(1, len(TASKS) + 1):
@@ -197,7 +192,6 @@ def main():
                 live.update(render_kanban(s))
             time.sleep(2)
     else:
-        # Static full board view
         console.print(render_kanban(len(TASKS)))
 
     console.print("\n[bold green][DONE] Hermes Kanban Execution Verified![/bold green]")

@@ -49,13 +49,11 @@ class VideoAgent:
 
             data = json.load(file)
 
-        # Outer storyboards object or list
         storyboard_data = data.get(
             "storyboards",
             {}
         )
 
-        # Resiliently handle both dict {"storyboards": [...]} and list [...]
         if isinstance(storyboard_data, list):
             storyboards = storyboard_data
         elif isinstance(storyboard_data, dict):

@@ -31,7 +31,6 @@ class AdConceptAgent:
         """
         Generates original ad concepts using marketing insights and product rules.
         """
-        # Extract core marketing insights sections
         top_pain_points = marketing_insights.get("top_pain_points", [])
         top_desires = marketing_insights.get("top_desires", [])
         winning_hooks = marketing_insights.get("winning_hooks", [])
@@ -106,7 +105,6 @@ Return ONLY valid JSON with this exact structure:
 
         content = response.choices[0].message.content.strip()
 
-        # Remove markdown code fences if present
         if content.startswith("```json"):
             content = content[len("```json"):]
         elif content.startswith("```"):
