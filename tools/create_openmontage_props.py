@@ -1,3 +1,4 @@
+import argparse
 import json
 import shutil
 from pathlib import Path
@@ -14,53 +15,24 @@ def get_latest_file(pattern):
     return max(files, key=lambda file: file.stat().st_mtime)
 
 
-def build_cinematic_movie_ad_props():
+def build_cinematic_movie_ad_props(brand="cwt"):
     """
-    Constructs a true cinematic, movie-style video advertisement for CrowdWisdomTrading
-    using actual visual video footage (real B-roll/cinematic footage) matching the
-    pipeline's storyboard and video-agent prompts:
+    Constructs a true cinematic, movie-style video advertisement with full audio
+    (neural AI voiceover narration + cinematic background music).
 
-    Scene 1 (0.0 - 6.0s):
-      Visual: Weary trader at workstation analyzing multi-screen scrolling charts at night.
-      Narrative Hook: "VOLATILE MARKETS: Are you catching moves or caught in noise?"
-      Footage: footage/scene_1_hook_trader.mp4
-
-    Scene 2 (6.0 - 12.0s):
-      Visual: Frantic smartphone checking, crypto/stock graph tracking, alert notification overload.
-      Pain Point: "15 TABS. 50 TELEGRAM ALERTS. Endless noise, zero high-conviction clarity."
-      Footage: footage/scene_2_phone_overload.mp4
-
-    Scene 3 (12.0 - 18.0s):
-      Visual: Broker analyzing rapid candlestick volatility and erratic price swings.
-      Contrast: "CANDLESTICK NOISE: Solo guesswork entering late and burning capital."
-      Footage: footage/scene_3_candlestick_volatility.mp4
-
-    Scene 4 (18.0 - 24.5s):
-      Visual: Ultra high-tech 3D data particle flow converging into unified algorithmic streams.
-      Mechanism: "DATA CONVERGENCE: 50,000+ trader perspectives unified into real-time consensus."
-      Footage: footage/tech_data_flow.mp4
-
-    Scene 5 (24.5 - 31.0s):
-      Visual: Sleek institutional financial intelligence screen with real-time indicators.
-      Solution: "1 UNIFIED HUB: Sentiment bias, key levels & aggregated signals in one place."
-      Footage: footage/scene_4_financial_screen.mp4
-
-    Scene 6 (31.0 - 37.0s):
-      Visual: Confident trader analyzing calmly with focused execution and relaxed posture.
-      Transformation: "STRUCTURED CONFIDENCE: From anxiety and hesitation to decisive execution."
-      Footage: footage/scene_5_confident_trader.mp4
-
-    Scene 7 (37.0 - 42.0s):
-      Visual: Grand establishing view of Wall Street / New York Stock Exchange.
-      Authority: "WALL STREET EDGE: Institutional-grade perspective in retail hands."
-      Footage: footage/scene_6_wall_street_nyse.mp4
-
-    Scene 8 (42.0 - 47.0s):
-      Visual: Cinematic brand hero card with CrowdWisdomTrading call to action.
-      Closing: "CrowdWisdomTrading — Stop Guessing. Start Knowing. Explore Free."
-
-    Total duration: 47 seconds (compliant with 30-60s assessment requirement).
+    Supports:
+      brand="cwt"        -> CrowdWisdomTrading (for CEO Gilad assessment submission)
+      brand="tradepulse" -> TradePulse AI (for public LinkedIn portfolio)
     """
+    if brand.lower() == "tradepulse":
+        brand_title = "TradePulse AI"
+        brand_sub = "Stop Guessing. Start Knowing. Explore Free at tradepulse.ai"
+        narration_file = "narration_tradepulse.mp3"
+    else:
+        brand_title = "CrowdWisdomTrading"
+        brand_sub = "Stop Guessing. Start Knowing. Explore Free at crowdwisdomtrading.com"
+        narration_file = "narration_cwt.mp3"
+
     cuts = [
         # Scene 1: Cinematic Hook - Trader at Multi-Screen Desk (0.0 - 6.0s)
         {
@@ -153,15 +125,15 @@ def build_cinematic_movie_ad_props():
             "backgroundColor": "#0A0F1D"
         },
 
-        # Scene 8: Cinematic Brand Closing & Call to Action (42.0 - 47.0s)
+        # Scene 8: Cinematic Brand Closing & Call to Action (42.0 - 48.0s)
         {
             "id": "movie-scene-8-cta",
             "source": "",
             "type": "hero_title",
             "in_seconds": 42.0,
-            "out_seconds": 47.0,
-            "text": "TradePulse AI",
-            "subtitle": "Stop Guessing. Start Knowing. Explore Free at tradepulse.ai",
+            "out_seconds": 48.0,
+            "text": brand_title,
+            "subtitle": brand_sub,
             "accentColor": "#38BDF8",
             "backgroundColor": "#0A0F1D"
         }
@@ -251,31 +223,53 @@ def build_cinematic_movie_ad_props():
         "cuts": cuts,
         "overlays": overlays,
         "captions": [],
-        "audio": {}
+        "audio": {
+            "narration": {
+                "src": f"audio/{narration_file}",
+                "volume": 1.0
+            },
+            "music": {
+                "src": "audio/background_music.mp3",
+                "volume": 0.15,
+                "loop": True,
+                "fadeInSeconds": 1.5,
+                "fadeOutSeconds": 2.5
+            }
+        }
     }
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Generate OpenMontage Props with Audio")
+    parser.add_argument("--brand", choices=["cwt", "tradepulse"], default="cwt",
+                        help="Brand to target ('cwt' for CrowdWisdomTrading, 'tradepulse' for TradePulse AI)")
+    args = parser.parse_args()
+
     print("\n========================================================")
-    print("Generating Cinematic Movie-Style Video Ad Props...")
+    print(f"Generating Cinematic Movie Video Ad Props [Brand: {args.brand.upper()}]...")
     print("========================================================\n")
 
     video_prompt_file = get_latest_file("video_prompts_*.json")
     print(f"Referencing latest cinematic video prompts: {video_prompt_file.name}")
 
-    props_data = build_cinematic_movie_ad_props()
+    props_data = build_cinematic_movie_ad_props(brand=args.brand)
 
-    output_file = OUTPUT_DIR / "crowdwisdom_openmontage_props.json"
+    output_file = OUTPUT_DIR / f"{args.brand}_openmontage_props.json"
+    crowdwisdom_output = OUTPUT_DIR / "crowdwisdom_openmontage_props.json"
 
     with open(output_file, "w", encoding="utf-8") as file:
         json.dump(props_data, file, indent=2, ensure_ascii=False)
 
+    # Always sync active props to crowdwisdom_openmontage_props.json
+    shutil.copy(output_file, crowdwisdom_output)
+
     print(f"Generated {len(props_data['cuts'])} cinematic scenes / cuts.")
     print(f"Generated {len(props_data['overlays'])} narrative title & stat overlays.")
-    print("Total runtime: 47 seconds (cinematic ad pacing, compliant with 30-60s requirement).")
+    print(f"Audio configured: Narration ({props_data['audio']['narration']['src']}) + Background Music ({props_data['audio']['music']['src']}).")
+    print("Total runtime: 48 seconds.")
     print(f"Saved props to: {output_file}\n")
 
-    # Copy to OpenMontage demo-props
+    # Copy to OpenMontage demo-props crowdwisdom.json
     destination = (
         OPENMONTAGE_DIR /
         "remotion-composer" /
